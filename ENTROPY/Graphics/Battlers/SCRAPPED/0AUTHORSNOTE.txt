@@ -1,0 +1,3 @@
+The X_ENMY sheets are redundant because galv's script badly breaks the enemy transform operator by which my game hinges on. 
+They're here as remnants of history of many scrapped visual features. That's all. I won't remove them, ever. Lawl.
+X_ENMY_JUST are used instead.

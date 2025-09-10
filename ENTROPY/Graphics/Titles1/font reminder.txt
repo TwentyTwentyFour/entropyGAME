@@ -1,0 +1,1 @@
+arial size 25 non bold non italic

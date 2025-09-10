@@ -1,0 +1,478 @@
+this txt is for tracking completed icon assets as well as entropy weapon names
+
+legend: 
+[itemname] BLANK-incomplete 
+[itemname] [XXX] [author]-complete
+
+gloves/handbands/handwear
+T1
+DIY Bracelet [XXX] Okello
+Fingernails [XXX] Okello
+Red Ring [XXX] Okello
+Sweat [XXX] Okello
+Artificial Rime [XXX] Okello
+Battery Acid [XXX] Okello
+Dust Crust [XXX] Okello
+Garden Gloves [XXX] Okello
+Begging Hands [XXX] Okello
+Scratches [XXX] Okello
+Corpse Oil [XXX] Okello
+Magnesia Powder [XXX] Okello
+T2
+Dueling Gloves [XXX] Okello
+Hidden Blade [XXX] Okello
+Toaster Parts [XXX] Okello
+Wet Skin [XXX] Okello
+Still Handwatch
+Zap Wristbands [XXX] Okello
+Used Work Gloves [XXX] Okello
+Vine Bracelet [XXX] Okello
+Pastor's Ring [XXX] Okello
+Opened Wrists [XXX] Okello
+Single Glove [XXX] Okello
+Alcoholic Tremors [XXX] Okello
+T3
+Whole Wristbands [XXX] Okello
+Spikey Knuckles [XXX] Okello
+Cig Burns [XXX] Okello
+Extra Glands [XXX] Okello
+White Coating [XXX] Okello
+Digital Watch
+Dark Wristbands [XXX] Okello
+Greenhouse Ring [XXX] Okello
+Blessed Hands [XXX] Okello
+666 Mark [XXX] Okello
+Mom's Bracelet [XXX] Okello
+Neuroticism [XXX] Okello
+T4
+Boxing Gloves [XXX] Okello
+Hands That Kill [XXX] Okello
+Starblaze [XXX] Okello
+Rainmakers [XXX] Okello
+Alpine Snow [XXX] Okello
+Magnetron [XXX] Okello
+Stone Mitts [XXX] Okello
+Massive Mandibles
+Nailholes [XXX] Okello
+Goat Hooves
+Bloodied Knucks [XXX] Okello
+Dealt Hand [XXX] Okello
+T5
+Door Breakers [XXX] Okello
+Deconstructor Pair [XXX] Okello
+White Hole Gloves [XXX] Okello
+Neptunian Hands [XXX] Okello
+Death's Fingers [XXX] Okello
+Grasp On Physics [XXX] Okello
+Tectonica Gloves [XXX] Okello
+Budding New Nature
+The Smiting Blow
+Peccatum [XXX] Okello
+Dadaist Bracelet [XXX] Okello
+Illegal Gloves [XXX] Okello
+
+boomerangs/throwables
+T1
+Plastic Boomerang [XXX] Okello
+Plastic Disc [XXX] Billy Mayonnaise
+Flares [XXX] Billy Mayonnaise
+Water Balloons [XXX] Okello & SIE
+Snowballs [XXX] Okello
+Microchips [XXX] Okello
+Flat Pebbles [XXX] Okello
+Limes [XXX] Okello
+Wooden Cross [XXX] Billy Mayonnaise
+Infertile Eggs [XXX] Okello
+Waning Branch [XXX] Billy Mayonnaise
+Paper Airplane [XXX] Billy Mayonnaise
+T2
+The Seven
+CD Disc [XXX] Okello
+Cherry Bombs
+Shower Handle [XXX] Okello
+Icy Angular
+Computer Mouse [XXX] Billy Mayonnaise
+Porous Bricks
+Expired Ampules
+Golden Boomerang
+Manifested Smile
+Bananic Instrument [XXX] Okello
+Rotten Fruit & Veg [XXX] Okello
+T3
+Throwable Nunchaku [XXX] Okello
+Sawblade
+Napalm Boomerang
+Hello To A Surfer
+Winter Winds
+Y Antennae
+Armored Masonry
+Coconuts
+Saint Graal
+Rubber Dicks
+Everbending Item [XXX] Okello
+The Wrong Turn
+T4
+Trauma Instrument
+Ten Thousand Cuts
+A.S.H.E.S.
+Heavy Weather
+Ice Moon Europa
+Solar Panel Plates
+White House Slabs
+Acute Viral Angle
+The Bible
+Aborted Biomaterial
+Gun Beyond Broken
+New Olathe Classic
+T5
+Miniscule ICBM Dud
+Needle In A Haystack
+Deployable Hellfire [XXX] Toronacu
+Tsunami Supreme
+Boomerang Nebula
+50000 Volt Grenades
+Jerusalem Block
+Man's Superposition
+Jesus's Collarbones
+Lying Judgement
+Censor Bars
+Ultimate Boomerang
+
+knives/swords/blades
+T1
+Broken Bottle [XXX] Okello
+Dental Tool [XXX] Okello
+Molten Knife [XXX] Okello
+Soupspoon [XXX] Okello
+Ice Cream Scooper [XXX] Okello
+Cable Jack [XXX] Okello
+Dull Chisel [XXX] Okello
+Pine Steak [XXX] Okello
+Golden Needle [XXX] Okello
+Rusty Curl [XXX] Okello
+Black Spike [XXX] Toronacu & Okello
+Pen [XXX] Okello
+T2
+Rebar
+Swiss Knife [XXX] Okello
+DIY Sharp Blowtorch
+Fishing Hooks [XXX] Okello
+New Nature Icicles
+Sparksword
+Masonic Hard Chisel [XXX] Okello
+Jungle Machete
+De-Foreskin-Er
+AIDS Syringe [XXX] Okello
+Non-Dagger
+Hyperslicer
+T3
+Cubist Sword
+Exotic Sai
+Blazing Tungsten
+Refined Sawfish Parts
+Frigid Blade
+Static Soundwaver
+Stuck Excalibur
+Green Sickle [XXX] Okello
+Radiant Rapier [XXX] Okello
+Suicider's Tool [XXX] Okello
+Quiet Thinning
+Red Marginal
+T4
+Heavy Leiomano
+Grey To Red Sword
+Pyrophobia Tyrant
+Missouri River
+Arctic Horizon
+Abused Buzzsaw
+Ancient Skimitar
+Weedwhacker
+Angelic Lance [XXX] Okello
+Infernal Deglover
+Unknowable Sword
+Beheading Epidemic
+T5
+Lethal Mancatcher
+Hand Guillotine
+1st Half Of The Flash
+Atlantis Piercer
+Stillness In Motion
+2nd Half Of The Flash
+North America Steel
+Oak Tree Peeler
+Gladius Dei Rutilans
+666 Daggers In One
+Joyeuse
+Aztec Ritual Knife
+
+clubs/bats
+T1
+Decrepit Pipework
+Nailed Plank
+Cindering Wood
+Plastic Paddle
+Destroyed Icepick
+Standing Airfan
+Broom
+Flower Bundle [XXX] Okello
+Choir's Notestand
+Stripping Pole
+Quarterstaff
+Old Casey
+T2
+Car Axle
+Barbed Club
+Space Heater
+Steaming Pipework
+Sample Of Siberia
+Telephone Pole Parts
+Shovel [XXX] Okello
+Green Plough [XXX] Okello
+Preacher's Briefcase [XXX] Okello
+Bladeless Scythe
+Colorless Bat
+Policeman Nightstick
+T3
+25 Pound Hammer
+American Axe
+DIY Torture Tool
+Full Fishing Sack
+Argon Tank
+Kinetic Zinc Rod
+Piece Of Kansas City
+Mother Gaia Baton
+Church Cross
+Man's Corpse
+Lightbulb Smasher
+Half-ton Bellclapper 
+T4
+Lobotomizer
+Damaged Harpoon
+Cattle Branding Iron
+Urchin Mace
+The North Pole
+Erratic Cattle Prod
+Mini Excavator Claw
+Totem Pole
+Gilded Bellclapper
+Gigapenetrator
+The Shaft
+Mjolnir Replica
+T5
+Trench Raiding Club
+Elephant Goad
+Proxy Sun Flail
+USS Liberty Anchor
+Iceberg Basher
+N.A.S.A. Sattelite
+Mantle Demolition
+Neon Treecrowns
+Staff Of Moses
+Woman's Corpse
+Videoo Nihil
+Flaying Braindazzler
+
+guns
+T1
+Airgun
+Nailgun
+Lighter + Deodorant [XXX] Okello
+Water Hose
+Artificial Snow Can
+No Battery Taser
+Defunct Pistol
+Germ Spray
+Lost Police Issue
+Muzzle Flasher
+Zip Rip
+Bullet Chewer
+T2
+Osa Handgun
+WWI Moseen's Rifle
+Caving Flare Gun
+Pressure Cleaner
+Ice Resurfacer Parts
+DIY Railgun
+Karlo SMG
+Cyanide Drop Rifle
+High Caliber Blitz
+Uniattacker's Gun
+Imploded Rifle
+Snub Revolver
+T3
+DIY Blunderbuss
+2005 Issue SMG
+Napalm Thrower
+Dolphin Rifle
+Cold War Pistol
+Laser Prototype
+African Produkt Rifle
+Moth Machinegun
+Saltshooter
+Whispering Piece
+No Trigger Pistol
+7 Mile Sniper Rifle [XXX] Fruits
+T4
+Teddy Roosevelt Gun
+Nouriin 550
+Dave Crocket Piece
+Riot Disperser
+PP-15 Bison
+Arc Generator
+Hand Mortar
+Experiment 5
+Pope's Pistol
+666 Karat Opal Gun
+Sugary Firearm
+Bank Clearing Piece
+T5
+100 Deck Shotgun
+Anti-Infantry Minigun
+Comet Launcher
+Shipsinker Handgun
+E.N.T.R.O.P.Y. Gun
+Anti-Air Pulse Rifle
+Civil War Bolt Action
+Unit 731 Dart Pistol
+America's Finest Gun
+Jahannam Bullets
+Maximum Caliber
+Last US Army Issue
+
+shields/big objects/obstacles
+T1
+Joined Planks
+Metal Sheet
+Oven Door
+10 Gallon Water Jug
+Fridge Door
+Transformer Box
+Olathian Landmass
+Uprooted Bush
+Church Mozaic
+Dirty Mattress
+Doomed Protector
+Scapegoat Meatwall
+T2
+DIY Shield
+Rigid Plating
+Hot Garbage
+Laundromat Door
+Frost Fortification
+TV Set
+Monstertruck Wheel
+Basined Flowerbed
+Prayer House Bench
+Adult Literature
+Black Square [XXX] Okello
+Parry Instrument
+T3
+Foldable Lead Chair
+Barbed Shield
+Firefighter Barricade
+Water Boiler
+Artificial Ice Wall
+Synthesizer Keys [XXX] Okello
+Torn Off Brickwall
+Calamity Riot Sign
+Crusading Shield
+Full Body Sex Doll
+Bodyweight Mirror
+Gigantic Flower
+T4
+F.B.I. Car Door
+Spike Canopy Barrier
+Lava Coating
+95% Fluid Shield
+Svalinn
+Telecommunications
+Justice House Shield
+Whole Animal Head
+Divine Iconography
+Septic Tank
+Kindness
+Riot Suppress Shield
+T5
+Unmovable Object
+Czech Hedgehog
+Betelgeuse
+Atlantic Ocean
+Defunct Cryocamera
+Storming Nebula
+Planet Earth
+Old And New Nature
+God's Saving Grace
+De Sade's Doctrine
+Superstes
+Authentic Chimalli
+
+whips
+T1
+Rusty Chain
+Torn Dog Leash
+Orange Whip [XXX] Okello
+Fishing Net Thread
+Sky Blue Whip [XXX] Okello
+Loose Wires
+Construction Thread
+Reeds
+Churchman's Necktie
+Crime Tape
+Thick Black Thread
+Port De Bras String
+
+T2
+Fatherly Belt [XXX] Okello
+Lasher [XXX] Okello
+Fury Flail [XXX] Okello
+The Tongue
+X-mas Lights
+US Type Wire Plug
+Riding Crop
+Long Hair Braid
+Holy Spool
+Noose
+Jelly-flex-stick
+Control Joystick
+
+T3
+Motorbike Chain
+Barbed Wire 
+Melting Metal
+Sail Strap
+Ice Cream Whip [XXX] Okello
+Electric Guitar String
+Hulking Urban Flail
+Snake Cadaver
+Flagellant Whip [XXX] Okello
+B.D.S.M. Equipment [XXX] Okello
+Silicon Gooey Hand
+Juice Extractor
+
+T4
+Diegetic Mauler
+Cat O Nine Tails [XXX] Okello
+Gehenna Chains
+The Coastline
+New Ice Age
+Subdued Lightning
+Bridge Cable [XXX] Okello
+New Nature Thorns [XXX] Okello
+Whipping Of Jesus
+Aegis Wrecker [XXX] Okello
+Fibonacci Sequence
+Man's Extinction
+
+T5
+Breeder Bot Limb
+Pierce The Reality
+Volcanic Mantle Strip
+Niagra Falls
+Saturn Coils
+Labor Day Hurricane
+America's Bible Belt
+Amazonian Whip [XXX] Okello
+All Seeing Eye
+Satan's Intestine
+Olathe Spanning Strip
+Humiliation Ritual

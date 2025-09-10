@@ -1,0 +1,224 @@
+this txt is for tracking completed icon assets as well as entropy weapon names
+
+legend: 
+[itemname] BLANK-incomplete 
+[itemname] [XXX] [author]-complete
+
+option expanders
+Violent Tendencies [XXX] Billy Mayonnaise
+Karate Poster [XXX] Billy Mayonnaise
+Trepidation [XXX] Billy Mayonnaise
+Dad's Guidance [XXX] Billy Mayonnaise
+Golfball [XXX] Billy Mayonnaise
+Police Badge [XXX] Billy Mayonnaise
+Androphobia [XXX] Billy Mayonnaise
+Aphrodisiac Pill [XXX] Billy Mayonnaise
+Criminal Records [XXX] Billy Mayonnaise
+
+hats
+T1
+Pillow [XXX] Tylobite
+Taxi Driver Hat [XXX] Tylobite
+Sunglasses [XXX] Tylobite
+Plastic Bag [XXX] Tylobite
+Balaklava [XXX] Tylobite
+Tinfoil Hat [XXX] Tylobite
+Head In The Sand [XXX] Tylobite
+Butterfly Hairpin [XXX] Tylobite
+Nun Wraps [XXX] Tylobite
+Halloween Mask [XXX] Tylobite
+FBI Hat [XXX] Fruits
+T2
+Baseball Helmet [XXX] Pug
+Beekeper Helmet [XXX] Tylobite
+Wide Cowboy Hat [XXX] Tylobite
+Bucket Hat [XXX] Tylobite
+Ushanka [XXX] Tylobite
+Neon Glasses [XXX] Tylobite
+Mining Helmet [XXX] Tylobite
+Fruit Crown [XXX] Tylobite
+Blissful Braids [XXX] Tylobite
+Human Viscera [XXX] Tylobite
+Crab Plush Mask [XXX] Tylobite
+T3
+Heroic Kerchief
+SWAT Helm
+Pharaoh's Mock Hat
+Hawaii Straw Hat
+Hockey Helmet
+Diffuser Headgear
+Sombrero
+WWII Gas Mask [XXX] Pug
+Holy Bandages
+2005 N.Y. Glasses
+Frogmouth Helm
+T4
+Great Knight Helm
+Fencing Helmet
+Inferno Mask
+US Dixie Cup
+Papakha
+XB5000 Headphones
+Motorbike Helmet
+Cactus Mask
+The Halo
+Lizard Skin [XXX] Pug
+Vast Blue [XXX] Grom
+T5
+Macedonian Helmet
+World's Pinkest Mask [XXX] Okello
+Splendor Solis
+Crown Of Atlantis
+Mother's Warmth
+Spacesuit Helmet
+Transformation Mask
+New Nature Visor
+Crown Of Thorns [XXX] Toronacu
+JFK's Frontal Lobe
+Man's Full Scalp
+
+body armor/clothes
+T1
+DIY Chest Strap
+Torn Kevlar
+Scarlet Poncho
+Flimsy Raincoat [XXX] Pug
+Critter Hide
+Rubber Shirt
+Jorongo
+Full Cotton Textile
+Church Carpet
+Terracotta Beads
+Holey Poncho
+T2
+Plastic Pieces
+Greaser Jacket
+Ashen Shirt
+Diving Suit
+Thermal Clothing [XXX] Fruits
+Static Wool Pajamas
+Desert Camo Getup
+Linen Shawl
+Prayer Mantle
+Prisoner Jumpsuit
+Cadaver's Garb
+T3
+Sportsgear
+Bulletproof Vest [XXX] Grom
+Fiberglass Bodysuit 
+Bathyscaphe Shawl
+Fink Fur Coat
+Olympic Jumpsuit
+Nubian Beads
+Tie Dye Shirt
+Wedding Dress
+NY Wall Street Suit
+Performance Jacket
+T4
+Armor Or Beowulf
+The Plot Armor
+Solar Panel Jumpsuit
+Piscis Tunic
+Northern Lights Shawl
+Wire Cocoon
+Burial Getup
+Samsara Poncho
+Abrahamic Garb
+Butcher's Apron
+Carnival Bodysuit
+T5
+Antimatter Armor
+Dark Matter Suit
+Eclipse Getup
+The Mariana Trench
+1000 Layer Poncho
+Robes Of Odin [XXX] Toronacu
+Richter's Scale Getup
+Calamity Interface
+The Golden Fleece
+Dirty Hospital Gown
+Tunic Of Nessus
+
+leg armor/clothes
+T1
+Thick Black Pants [XXX] Okello
+Classic Black Pants [XXX] Okello
+Pitch Black Pants [XXX] Okello
+Slick Black Pants [XXX] Okello
+100% Black Pants [XXX] Okello
+Fuzzy Black Pants [XXX] Okello
+Charcoal Black Pants [XXX] Okello
+Inky Black Pants [XXX] Okello
+American Black Pants [XXX] Okello
+Stygian Black Pants [XXX] Okello
+Almost Black Pants [XXX] Okello
+T2
+Plastic Leg Guards
+Police Issue Trousers
+Neon Orange Pants
+Nylon Threaders
+Waned Sweatpants
+Electrician's Trousers
+Cargo Pants
+Pineapple Shorts
+Cowboy Jeans
+Pissed Pants
+Underwear
+T3
+Biker Club Pants
+Tactical Treaders
+Chemical Tarp Pants
+Waterproof Trousers
+Insulated Bib Pants
+Quicksilver Shins
+Mummy Bandages
+Tropic Ornaments
+Priest's Trousers
+Addict's Shorts
+Half-Authentic Kilt
+T4
+Leg Armor Shells
+Chainmail Skirt
+Magmatic Drapes
+Battleship Leggings
+Luna Moods
+Om Striders
+Urban Nomad
+Horizon Hues
+King Arthur's Shins
+Low Umbra
+Realmwalkers
+T5
+Turbulence Shins
+Non Cultro Leggings
+Sunset Leg Guards
+Hollow Merman's Tail
+Absolute Zero Pants
+Jupiter Bottoms
+Masonic Treaders
+Gorgone Cullottes
+Yahweh's Gown
+Macabre Aphex
+Whizz-whazz Pants
+
+extra accessories
+Wizardly Bauble
+Voodoo Bauble
+Rabbit Talisman
+Vertigo Talisman
+Airhorn
+Dreamstate
+Biblically Valid Mind
+Picture Of Zion
+Blind Wrath
+Donkey Ass
+Executive Order 11110 [XXX] Fruits
+The Choice Trinket
+Rad Sneakers
+Toilet Paper
+Offensive Book
+Positivity Loop
+Colored Baubles (10) [XXX] Okello
+Colored Hexes (10) [XXX] Okello
+Colored Rings (10) [XXX] Okello
+Would-be Abortion
