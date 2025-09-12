@@ -207,11 +207,11 @@ Aztec Ritual Knife
 
 clubs/bats
 T1
-Decrepit Pipework
-Nailed Plank
-Cindering Wood
-Plastic Paddle
-Destroyed Icepick
+Decrepit Pipework [XXX] Okello
+Nailed Plank [XXX] Okello
+Cindering Wood [XXX] Okello
+Plastic Paddle [XXX] Okello
+Destroyed Icepick [XXX] Okello
 Standing Airfan
 Broom
 Flower Bundle [XXX] Okello

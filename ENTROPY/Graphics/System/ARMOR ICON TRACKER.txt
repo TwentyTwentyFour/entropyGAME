@@ -30,10 +30,10 @@ Halloween Mask [XXX] Tylobite
 FBI Hat [XXX] Fruits
 T2
 Baseball Helmet [XXX] Pug
-Beekeper Helmet [XXX] Tylobite
-Wide Cowboy Hat [XXX] Tylobite
-Bucket Hat [XXX] Tylobite
-Ushanka [XXX] Tylobite
+Beekeper Helmet [XXX] Pug
+Wide Cowboy Hat [XXX] Pug
+Bucket Hat [XXX] Pug
+Ushanka [XXX] Pug
 Neon Glasses [XXX] Tylobite
 Mining Helmet [XXX] Tylobite
 Fruit Crown [XXX] Tylobite
