@@ -100,17 +100,17 @@ Bananic Instrument [XXX] Okello
 Rotten Fruit & Veg [XXX] Okello
 T3
 Throwable Nunchaku [XXX] Okello
-Sawblade
-Napalm Boomerang
-Hello To A Surfer
-Winter Winds
-Y Antennae
+Sawblade [XXX] Okello
+Napalm Boomerang [XXX] Okello
+Hello To A Surfer [XXX] Okello
+Winter Winds [XXX] Okello
+Y Antennae 
 Armored Masonry
-Coconuts
-Saint Graal
-Rubber Dicks
+Coconuts [XXX] Okello
+Saint Graal [XXX] Okello
+Rubber Dicks [XXX] Okello
 Everbending Item [XXX] Okello
-The Wrong Turn
+The Wrong Turn [XXX] Okello
 T4
 Trauma Instrument
 Ten Thousand Cuts
@@ -135,7 +135,7 @@ Jerusalem Block
 Man's Superposition
 Jesus's Collarbones
 Lying Judgement
-Censor Bars
+Censor Bars [XXX] Okello
 Ultimate Boomerang
 
 knives/swords/blades
@@ -207,13 +207,13 @@ Aztec Ritual Knife
 
 clubs/bats
 T1
-Decrepit Pipework [XXX] Okello
-Nailed Plank [XXX] Okello
-Cindering Wood [XXX] Okello
-Plastic Paddle [XXX] Okello
-Destroyed Icepick [XXX] Okello
-Standing Airfan
-Broom
+Decrepit Pipework [XXX] Billy Mayonnaise
+Nailed Plank [XXX] Billy Mayonnaise
+Cindering Wood [XXX] Billy Mayonnaise
+Plastic Paddle [XXX] Billy Mayonnaise
+Destroyed Icepick [XXX] Billy Mayonnaise
+Standing Airfan [XXX] Billy Mayonnaise
+Broom [XXX] Billy Mayonnaise
 Flower Bundle [XXX] Okello
 Choir's Notestand
 Stripping Pole

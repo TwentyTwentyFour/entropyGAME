@@ -36,7 +36,7 @@ Bucket Hat [XXX] Pug
 Ushanka [XXX] Pug
 Neon Glasses [XXX] Tylobite
 Mining Helmet [XXX] Tylobite
-Fruit Crown [XXX] Tylobite
+Fruit Crown [XXX] Okello
 Blissful Braids [XXX] Tylobite
 Human Viscera [XXX] Tylobite
 Crab Plush Mask [XXX] Tylobite
