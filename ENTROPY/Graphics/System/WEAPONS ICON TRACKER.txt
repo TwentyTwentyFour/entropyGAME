@@ -341,17 +341,17 @@ Last US Army Issue
 
 shields/big objects/obstacles
 T1
-Joined Planks
-Metal Sheet
-Oven Door
-10 Gallon Water Jug
+Joined Planks [XXX] Pug
+Metal Sheet [XXX] Pug
+Oven Door [XXX] Pug
+10 Gallon Water Jug 
 Fridge Door
-Transformer Box
-Olathian Landmass
-Uprooted Bush
+Transformer Box [XXX] Pug
+Olathian Landmass [XXX] Pug
+Uprooted Bush [XXX] Pug
 Church Mozaic
-Dirty Mattress
-Doomed Protector
+Dirty Mattress [XXX] Pug
+Doomed Protector [XXX] Pug
 Scapegoat Meatwall
 T2
 DIY Shield
