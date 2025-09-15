@@ -344,15 +344,15 @@ T1
 Joined Planks [XXX] Pug
 Metal Sheet [XXX] Pug
 Oven Door [XXX] Pug
-10 Gallon Water Jug 
-Fridge Door
+10 Gallon Water Jug [XXX] Pug
+Fridge Door [XXX] Pug
 Transformer Box [XXX] Pug
 Olathian Landmass [XXX] Pug
 Uprooted Bush [XXX] Pug
-Church Mozaic
+Church Mozaic [XXX] Okello
 Dirty Mattress [XXX] Pug
 Doomed Protector [XXX] Pug
-Scapegoat Meatwall
+Scapegoat Meatwall [XXX] Okello
 T2
 DIY Shield
 Rigid Plating
