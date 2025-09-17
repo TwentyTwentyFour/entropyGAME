@@ -88,8 +88,8 @@ Rubber Shirt
 Jorongo
 Full Cotton Textile
 Church Carpet
-Terracotta Beads
-Holey Poncho
+Terracotta Beads [XXX] Pug
+Holey Poncho [XXX] Pug
 T2
 Plastic Pieces
 Greaser Jacket
@@ -100,7 +100,7 @@ Static Wool Pajamas
 Desert Camo Getup
 Linen Shawl
 Prayer Mantle
-Prisoner Jumpsuit
+Prisoner Jumpsuit [XXX] Pug
 Cadaver's Garb
 T3
 Sportsgear
