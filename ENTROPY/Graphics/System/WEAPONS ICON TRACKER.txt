@@ -425,15 +425,15 @@ T2
 Fatherly Belt [XXX] Okello
 Lasher [XXX] Okello
 Fury Flail [XXX] Okello
-The Tongue
-X-mas Lights
-US Type Wire Plug
+The Tongue [XXX] Toronacu
+X-mas Lights [XXX] Toronacu
+US Type Wire Plug [XXX] Toronacu
 Riding Crop
-Long Hair Braid
+Long Hair Braid [XXX] Toronacu
 Holy Spool
-Noose
+Noose [XXX] Toronacu
 Jelly-flex-stick
-Control Joystick
+Control Joystick [XXX] Toronacu
 
 T3
 Motorbike Chain
