@@ -413,13 +413,13 @@ Torn Dog Leash
 Orange Whip [XXX] Okello
 Fishing Net Thread
 Sky Blue Whip [XXX] Okello
-Loose Wires
+Loose Wires [XXX] Toronacu
 Construction Thread
 Reeds
 Churchman's Necktie
 Crime Tape
-Thick Black Thread
-Port De Bras String
+Thick Black Thread [XXX] Toronacu
+Port De Bras String [XXX] Okello
 
 T2
 Fatherly Belt [XXX] Okello
@@ -428,18 +428,18 @@ Fury Flail [XXX] Okello
 The Tongue [XXX] Toronacu
 X-mas Lights [XXX] Toronacu
 US Type Wire Plug [XXX] Toronacu
-Riding Crop
+Riding Crop [XXX] Toronacu
 Long Hair Braid [XXX] Toronacu
-Holy Spool
+Holy Spool [XXX] Toronacu
 Noose [XXX] Toronacu
-Jelly-flex-stick
+Jelly-flex-stick [XXX] Toronacu
 Control Joystick [XXX] Toronacu
 
 T3
 Motorbike Chain
 Barbed Wire 
 Melting Metal
-Sail Strap
+Sail Strap [XXX] Okello
 Ice Cream Whip [XXX] Okello
 Electric Guitar String
 Hulking Urban Flail
@@ -447,7 +447,7 @@ Snake Cadaver
 Flagellant Whip [XXX] Okello
 B.D.S.M. Equipment [XXX] Okello
 Silicon Gooey Hand
-Juice Extractor
+Juice Extractor [XXX] Toronacu
 
 T4
 Diegetic Mauler
@@ -460,7 +460,7 @@ Bridge Cable [XXX] Okello
 New Nature Thorns [XXX] Okello
 Whipping Of Jesus
 Aegis Wrecker [XXX] Okello
-Fibonacci Sequence
+Fibonacci Sequence [XXX] Okello
 Man's Extinction
 
 T5
@@ -475,4 +475,4 @@ Amazonian Whip [XXX] Okello
 All Seeing Eye
 Satan's Intestine
 Olathe Spanning Strip
-Humiliation Ritual
+Humiliation Ritual [XXX] Toronacu
