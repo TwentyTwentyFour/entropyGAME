@@ -447,7 +447,7 @@ Snake Cadaver
 Flagellant Whip [XXX] Okello
 B.D.S.M. Equipment [XXX] Okello
 Silicon Gooey Hand
-Juice Extractor [XXX] Toronacu
+Juice Extractor 
 
 T4
 Diegetic Mauler
@@ -461,7 +461,7 @@ New Nature Thorns [XXX] Okello
 Whipping Of Jesus
 Aegis Wrecker [XXX] Okello
 Fibonacci Sequence [XXX] Okello
-Man's Extinction
+Man's Extinction [XXX] Toronacu
 
 T5
 Breeder Bot Limb
