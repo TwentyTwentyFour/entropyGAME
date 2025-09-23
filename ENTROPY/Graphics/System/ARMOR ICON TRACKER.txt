@@ -36,8 +36,8 @@ Bucket Hat [XXX] Pug
 Ushanka [XXX] Pug
 Neon Glasses [XXX] Tylobite
 Mining Helmet [XXX] Tylobite
-Fruit Crown [XXX] Okello
-Blissful Braids [XXX] Tylobite
+Flower Crown [XXX] Okello
+Blissful Braids [XXX] Toronacu
 Human Viscera [XXX] Tylobite
 Crab Plush Mask [XXX] Tylobite
 T3
@@ -109,7 +109,7 @@ Fiberglass Bodysuit
 Bathyscaphe Shawl
 Fink Fur Coat
 Olympic Jumpsuit
-Nubian Beads
+Nubian Beads [XXX] Pug
 Tie Dye Shirt
 Wedding Dress
 NY Wall Street Suit
