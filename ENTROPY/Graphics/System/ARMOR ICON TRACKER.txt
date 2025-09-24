@@ -81,13 +81,13 @@ body armor/clothes
 T1
 DIY Chest Strap
 Torn Kevlar
-Scarlet Poncho
+Scarlet Poncho [XXX] Pug
 Flimsy Raincoat [XXX] Pug
 Critter Hide
 Rubber Shirt
 Jorongo
 Full Cotton Textile
-Church Carpet
+Church Carpet [XXX] Pug
 Terracotta Beads [XXX] Pug
 Holey Poncho [XXX] Pug
 T2
