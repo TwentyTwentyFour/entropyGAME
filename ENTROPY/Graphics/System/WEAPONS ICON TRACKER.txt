@@ -105,22 +105,22 @@ Napalm Boomerang [XXX] Okello
 Hello To A Surfer [XXX] Okello
 Winter Winds [XXX] Okello
 Y Antennae 
-Armored Masonry
+Armored Masonry [XXX] Okello
 Coconuts [XXX] Okello
 Saint Graal [XXX] Okello
 Rubber Dicks [XXX] Okello
 Everbending Item [XXX] Okello
 The Wrong Turn [XXX] Okello
 T4
-Trauma Instrument
-Ten Thousand Cuts
-A.S.H.E.S.
+Trauma Instrument [XXX] super.darian.64
+Ten Thousand Cuts [XXX] super.darian.64
+A.S.H.E.S. [XXX] Okello
 Heavy Weather
 Ice Moon Europa
-Solar Panel Plates
-White House Slabs
+Solar Panel Plates [XXX] super.darian.64
+White House Slabs [XXX] super.darian.64
 Acute Viral Angle
-The Bible
+The Bible [XXX] super.darian.64
 Aborted Biomaterial
 Gun Beyond Broken
 New Olathe Classic
@@ -131,7 +131,7 @@ Deployable Hellfire [XXX] Toronacu
 Tsunami Supreme
 Boomerang Nebula
 50000 Volt Grenades
-Jerusalem Block
+Jerusalem Block [XXX] Okello
 Man's Superposition
 Jesus's Collarbones
 Lying Judgement
