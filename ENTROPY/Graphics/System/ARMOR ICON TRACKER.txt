@@ -57,11 +57,11 @@ Great Knight Helm [XXX] super.darian.64
 Fencing Helmet [XXX] super.darian.64
 Inferno Mask [XXX] super.darian.64
 US Dixie Cup [XXX] super.darian.64
-Papakha
+Papakha [XXX] super.darian.64
 XB5000 Headphones [XXX] super.darian.64
 Motorbike Helmet [XXX] super.darian.64
 Cactus Mask [XXX] super.darian.64
-The Halo
+The Halo [XXX] super.darian.64
 Lizard Skin [XXX] Pug
 Vast Blue [XXX] Grom
 T5
@@ -153,7 +153,7 @@ American Black Pants [XXX] Okello
 Stygian Black Pants [XXX] Okello
 Almost Black Pants [XXX] Okello
 T2
-Plastic Leg Guards
+Plastic Leg Guards [XXX] super.darian.64
 Police Issue Trousers
 Neon Orange Pants
 Nylon Threaders
@@ -161,7 +161,7 @@ Waned Sweatpants
 Electrician's Trousers
 Cargo Pants
 Pineapple Shorts
-Cowboy Jeans
+Cowboy Jeans [XXX] super.darian.64
 Pissed Pants
 Underwear
 T3
