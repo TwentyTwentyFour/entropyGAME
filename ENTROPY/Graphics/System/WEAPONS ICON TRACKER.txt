@@ -215,10 +215,10 @@ Destroyed Icepick [XXX] Billy Mayonnaise
 Standing Airfan [XXX] Billy Mayonnaise
 Broom [XXX] Billy Mayonnaise
 Flower Bundle [XXX] Okello
-Choir's Notestand
-Stripping Pole
-Quarterstaff
-Old Casey
+Choir's Notestand [XXX] Billy Mayonnaise
+Stripping Pole [XXX] Billy Mayonnaise
+Quarterstaff [XXX] Billy Mayonnaise
+Old Casey [XXX] Billy Mayonnaise
 T2
 Car Axle
 Barbed Club
