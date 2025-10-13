@@ -154,16 +154,16 @@ Stygian Black Pants [XXX] Okello
 Almost Black Pants [XXX] Okello
 T2
 Plastic Leg Guards [XXX] super.darian.64
-Police Issue Trousers
-Neon Orange Pants
-Nylon Threaders
-Waned Sweatpants
-Electrician's Trousers
-Cargo Pants
-Pineapple Shorts
+Police Issue Trousers [XXX] super.darian.64
+Neon Orange Pants [XXX] super.darian.64
+Nylon Threaders [XXX] super.darian.64
+Waned Sweatpants [XXX] super.darian.64
+Electrician's Trousers [XXX] super.darian.64
+Cargo Pants [XXX] super.darian.64
+Pineapple Shorts [XXX] super.darian.64
 Cowboy Jeans [XXX] super.darian.64
 Pissed Pants
-Underwear
+Underwear [XXX] Okello
 T3
 Biker Club Pants
 Tactical Treaders
@@ -206,19 +206,19 @@ Wizardly Bauble
 Voodoo Bauble
 Rabbit Talisman
 Vertigo Talisman
-Airhorn
-Dreamstate
+Airhorn [XXX] super.darian.64
+Dreamstate [XXX] super.darian.64
 Biblically Valid Mind
 Picture Of Zion
 Blind Wrath
 Donkey Ass
 Executive Order 11110 [XXX] Fruits
 The Choice Trinket
-Rad Sneakers
-Toilet Paper
-Offensive Book
+Rad Sneakers [XXX] Okello
+Toilet Paper [XXX] super.darian.64
+Offensive Book [XXX] super.darian.64
 Positivity Loop
 Colored Baubles (10) [XXX] Okello
 Colored Hexes (10) [XXX] Okello
 Colored Rings (10) [XXX] Okello
-Would-be Abortion
+Would-be Abortion [XXX] Okello
