@@ -104,7 +104,7 @@ Sawblade [XXX] Okello
 Napalm Boomerang [XXX] Okello
 Hello To A Surfer [XXX] Okello
 Winter Winds [XXX] Okello
-Y Antennae 
+Y Antennae [XXX] Okello
 Armored Masonry [XXX] Okello
 Coconuts [XXX] Okello
 Saint Graal [XXX] Okello
@@ -274,18 +274,18 @@ Flaying Braindazzler
 
 guns
 T1
-Airgun
-Nailgun
+Airgun [XXX] super.darian.64
+Nailgun [XXX] super.darian.64
 Lighter + Deodorant [XXX] Okello
-Water Hose
-Artificial Snow Can
-No Battery Taser
-Defunct Pistol
-Germ Spray
-Lost Police Issue
-Muzzle Flasher
-Zip Rip
-Bullet Chewer
+Water Hose [XXX] super.darian.64
+Artificial Snow Can [XXX] super.darian.64
+No Battery Taser [XXX] super.darian.64
+Defunct Pistol [XXX] super.darian.64
+Germ Spray [XXX] super.darian.64
+Lost Police Issue [XXX] super.darian.64
+Muzzle Flasher [XXX] super.darian.64
+Zip Rip [XXX] Okello
+Bullet Chewer [XXX] Okello
 T2
 Osa Handgun
 WWI Moseen's Rifle

@@ -162,7 +162,7 @@ Electrician's Trousers [XXX] super.darian.64
 Cargo Pants [XXX] super.darian.64
 Pineapple Shorts [XXX] super.darian.64
 Cowboy Jeans [XXX] super.darian.64
-Pissed Pants
+Pissed Pants [XXX] super.darian.64
 Underwear [XXX] Okello
 T3
 Biker Club Pants
