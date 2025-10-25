@@ -300,14 +300,14 @@ Uniattacker's Gun
 Imploded Rifle
 Snub Revolver
 T3
-DIY Blunderbuss
-2005 Issue SMG
-Napalm Thrower
-Dolphin Rifle
-Cold War Pistol
-Laser Prototype
-African Produkt Rifle
-Moth Machinegun
+DIY Blunderbuss [XXX] super.darian.64
+2005 Issue SMG [XXX] super.darian.64
+Napalm Thrower [XXX] super.darian.64
+Dolphin Rifle [XXX] super.darian.64
+Cold War Pistol [XXX] super.darian.64
+Laser Prototype [XXX] super.darian.64
+African Produkt Rifle [XXX] Okello
+Moth Machinegun [XXX] super.darian.64 & Okello
 Saltshooter
 Whispering Piece
 No Trigger Pistol
