@@ -287,9 +287,9 @@ Muzzle Flasher [XXX] super.darian.64
 Zip Rip [XXX] Okello
 Bullet Chewer [XXX] Okello
 T2
-Osa Handgun
-WWI Moseen's Rifle
-Caving Flare Gun
+Osa Handgun [XXX] super.darian.64
+WWI Moseen's Rifle [XXX] super.darian.64
+Caving Flare Gun [XXX] super.darian.64
 Pressure Cleaner
 Ice Resurfacer Parts
 DIY Railgun
