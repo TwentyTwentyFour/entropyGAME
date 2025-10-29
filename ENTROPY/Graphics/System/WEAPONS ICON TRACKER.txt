@@ -236,12 +236,12 @@ T3
 25 Pound Hammer [XXX] super.darian.64
 American Axe [XXX] super.darian.64
 DIY Torture Tool [XXX] super.darian.64 & Okello
-Full Fishing Sack
-Argon Tank
-Kinetic Zinc Rod
-Piece Of Kansas City
-Mother Gaia Baton
-Church Cross
+Full Fishing Sack [XXX] super.darian.64
+Argon Tank [XXX] super.darian.64
+Kinetic Zinc Rod [XXX] super.darian.64
+Piece Of Kansas City [XXX] super.darian.64
+Mother Gaia Baton [XXX] super.darian.64
+Church Cross [XXX] super.darian.64
 Man's Corpse
 Lightbulb Smasher [XXX] Okello
 Half-ton Bellclapper 
