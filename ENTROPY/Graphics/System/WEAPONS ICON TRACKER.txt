@@ -242,9 +242,9 @@ Kinetic Zinc Rod [XXX] super.darian.64
 Piece Of Kansas City [XXX] super.darian.64
 Mother Gaia Baton [XXX] super.darian.64
 Church Cross [XXX] super.darian.64
-Man's Corpse
+Man's Corpse [XXX] super.darian.64
 Lightbulb Smasher [XXX] Okello
-Half-ton Bellclapper 
+Half-ton Bellclapper [XXX] Okello
 T4
 Lobotomizer
 Damaged Harpoon
