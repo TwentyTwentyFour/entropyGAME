@@ -23,7 +23,7 @@ Dueling Gloves [XXX] Okello
 Hidden Blade [XXX] Okello
 Toaster Parts [XXX] Okello
 Wet Skin [XXX] Okello
-Still Handwatch
+Still Handwatch [XXX] super.darian.64
 Zap Wristbands [XXX] Okello
 Used Work Gloves [XXX] Okello
 Vine Bracelet [XXX] Okello
@@ -37,7 +37,7 @@ Spikey Knuckles [XXX] Okello
 Cig Burns [XXX] Okello
 Extra Glands [XXX] Okello
 White Coating [XXX] Okello
-Digital Watch
+Digital Watch [XXX] super.darian.64
 Dark Wristbands [XXX] Okello
 Greenhouse Ring [XXX] Okello
 Blessed Hands [XXX] Okello
@@ -52,9 +52,9 @@ Rainmakers [XXX] Okello
 Alpine Snow [XXX] Okello
 Magnetron [XXX] Okello
 Stone Mitts [XXX] Okello
-Massive Mandibles
+Massive Mandibles [XXX] super.darian.64
 Nailholes [XXX] Okello
-Goat Hooves
+Goat Hooves [XXX] super.darian.64
 Bloodied Knucks [XXX] Okello
 Dealt Hand [XXX] Okello
 T5
@@ -65,8 +65,8 @@ Neptunian Hands [XXX] Okello
 Death's Fingers [XXX] Okello
 Grasp On Physics [XXX] Okello
 Tectonica Gloves [XXX] Okello
-Budding New Nature
-The Smiting Blow
+Budding New Nature [XXX] super.darian.64
+The Smiting Blow [XXX] super.darian.64 & Okello
 Peccatum [XXX] Okello
 Dadaist Bracelet [XXX] Okello
 Illegal Gloves [XXX] Okello
@@ -116,27 +116,27 @@ Trauma Instrument [XXX] super.darian.64
 Ten Thousand Cuts [XXX] super.darian.64
 A.S.H.E.S. [XXX] Okello
 Heavy Weather
-Ice Moon Europa
+Ice Moon Europa [XXX] SIE & Okello
 Solar Panel Plates [XXX] super.darian.64
 White House Slabs [XXX] super.darian.64
-Acute Viral Angle
+Acute Viral Angle [XXX] Okello
 The Bible [XXX] super.darian.64
 Aborted Biomaterial [XXX] super.darian.64
 Gun Beyond Broken [XXX] super.darian.64
-New Olathe Classic 
+New Olathe Classic [XXX] Okello
 T5
-Miniscule ICBM Dud
+Miniscule ICBM Dud [XXX] Okello
 Needle In A Haystack [XXX] super.darian.64
 Deployable Hellfire [XXX] Toronacu
-Tsunami Supreme
-Boomerang Nebula
-50000 Volt Grenades
+Tsunami Supreme [XXX] Okello
+Boomerang Nebula [XXX] Okello
+50000 Volt Grenades [XXX] Okello
 Jerusalem Block [XXX] Okello
-Man's Superposition
+Man's Superposition [XXX] Okello
 Jesus's Collarbones [XXX] super.darian.64
 Lying Judgement [XXX] super.darian.64
 Censor Bars [XXX] Okello
-Ultimate Boomerang
+Ultimate Boomerang [XXX] Okello
 
 knives/swords/blades
 T1
@@ -153,57 +153,57 @@ Rusty Curl [XXX] Okello
 Black Spike [XXX] Toronacu & Okello
 Pen [XXX] Okello
 T2
-Rebar
+Rebar [XXX] Okello
 Swiss Knife [XXX] Okello
-DIY Sharp Blowtorch
+DIY Sharp Blowtorch [XXX] Okello
 Fishing Hooks [XXX] Okello
-New Nature Icicles
-Sparksword
+New Nature Icicles [XXX] Okello
+Sparksword [XXX] Okello
 Masonic Hard Chisel [XXX] Okello
-Jungle Machete
-De-Foreskin-Er
+Jungle Machete [XXX] Okello
+De-Foreskin-Er [XXX] Okello
 AIDS Syringe [XXX] Okello
-Non-Dagger
-Hyperslicer
+Non-Dagger [XXX] Okello
+Hyperslicer [XXX] Okello
 T3
-Cubist Sword
-Exotic Sai
-Blazing Tungsten
-Refined Sawfish Parts
-Frigid Blade
-Static Soundwaver
-Stuck Excalibur
+Cubist Sword [XXX] Okello
+Exotic Sai [XXX] Okello
+Blazing Tungsten [XXX] Okello
+Refined Sawfish Parts [XXX] Okello
+Frigid Blade [XXX] Okello
+Static Soundwaver [XXX] Okello
+Stuck Excalibur [XXX] super.darian.64
 Green Sickle [XXX] Okello
 Radiant Rapier [XXX] Okello
 Suicider's Tool [XXX] Okello
-Quiet Thinning
-Red Marginal
+Quiet Thinning [XXX] Okello
+Red Marginal [XXX] Okello
 T4
-Heavy Leiomano
-Grey To Red Sword
-Pyrophobia Tyrant
-Missouri River
-Arctic Horizon
-Abused Buzzsaw
-Ancient Skimitar
-Weedwhacker
+Heavy Leiomano [XXX] Okello
+Grey To Red Sword [XXX] Okello
+Pyrophobia Tyrant [XXX] Okello
+Missouri River [XXX] Okello
+Arctic Horizon [XXX] Okello
+Abused Buzzsaw [XXX] Tylobite & Okello
+Ancient Skimitar [XXX] Okello
+Weedwhacker [XXX] Okello
 Angelic Lance [XXX] Okello
-Infernal Deglover
-Unknowable Sword
-Beheading Epidemic
+Infernal Deglover [XXX] Okello
+Unknowable Sword [XXX] Okello
+Beheading Epidemic [XXX] Tylobite
 T5
-Lethal Mancatcher
-Hand Guillotine
-1st Half Of The Flash
-Atlantis Piercer
-Stillness In Motion
-2nd Half Of The Flash
-North America Steel
-Oak Tree Peeler
-Gladius Dei Rutilans
-666 Daggers In One
-Joyeuse
-Aztec Ritual Knife
+Lethal Mancatcher [XXX] Okello
+Hand Guillotine [XXX] Okello
+1st Half Of The Flash [XXX] Okello
+Atlantis Piercer [XXX] Okello
+Stillness In Motion [XXX] Okello
+2nd Half Of The Flash [XXX] Okello
+North America Steel [XXX] Okello
+Oak Tree Peeler [XXX] Okello
+Gladius Dei Rutilans [XXX] Okello
+666 Daggers In One [XXX] Okello
+Joyeuse [XXX] Okello
+Aztec Ritual Knife [XXX] Toronacu
 
 clubs/bats
 T1
@@ -220,22 +220,22 @@ Stripping Pole [XXX] Billy Mayonnaise
 Quarterstaff [XXX] Billy Mayonnaise
 Old Casey [XXX] Billy Mayonnaise
 T2
-Car Axle
-Barbed Club
-Space Heater
-Steaming Pipework
-Sample Of Siberia
+Car Axle [XXX] super.darian.64
+Barbed Club [XXX] super.darian.64
+Space Heater [XXX] super.darian.64
+Steaming Pipework [XXX] super.darian.64
+Sample Of Siberia [XXX] Okello
 Telephone Pole Parts
 Shovel [XXX] Okello
 Green Plough [XXX] Okello
 Preacher's Briefcase [XXX] Okello
-Bladeless Scythe
-Colorless Bat
+Bladeless Scythe [XXX] super.darian.64 & Okello
+Colorless Bat [XXX] super.darian.64
 Policeman Nightstick
 T3
-25 Pound Hammer
-American Axe
-DIY Torture Tool
+25 Pound Hammer [XXX] super.darian.64
+American Axe [XXX] super.darian.64
+DIY Torture Tool [XXX] super.darian.64 & Okello
 Full Fishing Sack
 Argon Tank
 Kinetic Zinc Rod
@@ -243,7 +243,7 @@ Piece Of Kansas City
 Mother Gaia Baton
 Church Cross
 Man's Corpse
-Lightbulb Smasher
+Lightbulb Smasher [XXX] Okello
 Half-ton Bellclapper 
 T4
 Lobotomizer
@@ -255,7 +255,7 @@ Erratic Cattle Prod
 Mini Excavator Claw
 Totem Pole
 Gilded Bellclapper
-Gigapenetrator
+Gigapenetrator [XXX] Okello
 The Shaft
 Mjolnir Replica
 T5
@@ -354,13 +354,13 @@ Dirty Mattress [XXX] Pug
 Doomed Protector [XXX] Pug
 Scapegoat Meatwall [XXX] Okello
 T2
-DIY Shield
-Rigid Plating
+DIY Shield 
+Rigid Plating [XXX] Okello
 Hot Garbage
 Laundromat Door
 Frost Fortification
 TV Set
-Monstertruck Wheel
+Monstertruck Wheel [XXX] Okello
 Basined Flowerbed
 Prayer House Bench
 Adult Literature [XXX] Okello
@@ -390,7 +390,7 @@ Justice House Shield
 Whole Animal Head
 Divine Iconography [XXX] Okello
 Septic Tank
-Kindness
+Kindness [XXX] Okello
 Riot Suppress Shield
 T5
 Unmovable Object
