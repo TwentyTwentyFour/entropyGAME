@@ -246,10 +246,10 @@ Man's Corpse [XXX] super.darian.64
 Lightbulb Smasher [XXX] Okello
 Half-ton Bellclapper [XXX] Okello
 T4
-Lobotomizer
-Damaged Harpoon
-Cattle Branding Iron
-Urchin Mace
+Lobotomizer [XXX] super.darian.64
+Damaged Harpoon [XXX] super.darian.64
+Cattle Branding Iron [XXX] super.darian.64
+Urchin Mace [XXX] super.darian.64
 The North Pole
 Erratic Cattle Prod
 Mini Excavator Claw
@@ -313,7 +313,7 @@ Whispering Piece
 No Trigger Pistol
 7 Mile Sniper Rifle [XXX] Fruits
 T4
-Teddy Roosevelt Gun
+Teddy Roosevelt Gun [XXX] super.darian.64
 Nouriin 550
 Dave Crocket Piece
 Riot Disperser
@@ -328,7 +328,7 @@ Bank Clearing Piece
 T5
 100 Deck Shotgun
 Anti-Infantry Minigun
-Comet Launcher
+Comet Launcher [XXX] Billy Mayonnaise
 Shipsinker Handgun
 E.N.T.R.O.P.Y. Gun
 Anti-Air Pulse Rifle
