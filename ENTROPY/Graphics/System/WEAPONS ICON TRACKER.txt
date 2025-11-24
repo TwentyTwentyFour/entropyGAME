@@ -408,16 +408,16 @@ Authentic Chimalli
 
 whips
 T1
-Rusty Chain
+Rusty Chain [XXX] Okello
 Torn Dog Leash
 Orange Whip [XXX] Okello
-Fishing Net Thread
+Fishing Net Thread [XXX] Billy Mayonnaise
 Sky Blue Whip [XXX] Okello
 Loose Wires [XXX] Toronacu
-Construction Thread
-Reeds
-Churchman's Necktie
-Crime Tape
+Construction Thread [XXX] Billy Mayonnaise
+Reeds [XXX] Billy Mayonnaise
+Churchman's Necktie [XXX] Billy Mayonnaise
+Crime Tape [XXX] Billy Mayonnaise
 Thick Black Thread [XXX] Toronacu
 Port De Bras String [XXX] Okello
 
@@ -436,7 +436,7 @@ Jelly-flex-stick [XXX] Toronacu
 Control Joystick [XXX] Toronacu
 
 T3
-Motorbike Chain
+Motorbike Chain [XXX] Okello
 Barbed Wire 
 Melting Metal
 Sail Strap [XXX] Okello
