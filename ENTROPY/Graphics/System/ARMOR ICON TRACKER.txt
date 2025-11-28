@@ -41,10 +41,10 @@ Blissful Braids [XXX] Toronacu
 Human Viscera [XXX] Tylobite
 Crab Plush Mask [XXX] Tylobite
 T3
-Heroic Kerchief
-SWAT Helm
-Pharaoh's Mock Hat
-Hawaii Straw Hat
+Heroic Kerchief [XXX] super.darian.64
+SWAT Helm [XXX] super.darian.64
+Pharaoh's Mock Hat [XXX] super.darian.64
+Hawaii Straw Hat [XXX] super.darian.64
 Hockey Helmet
 Diffuser Headgear
 Sombrero
