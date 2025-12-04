@@ -1,35 +1,48 @@
 this txt is for tracking completed icon assets as well as entropy weapon names
 
+WEAPONSKILLS START AT ID:5000
+weaponskills directions:
+Gloves - tank skills
+Throwables - support/debuffer skills
+Blades - killer skills
+Clubs - tank/killer skills
+Guns - killer skills
+Shields - tank/support skills
+Whips - debuffer/killer skills
+
+
 legend: 
 [itemname] BLANK-incomplete 
 [itemname] [XXX] [author]-complete
+[itemname] (after xxx) BLANK - Weaponskill incomplete
+[itemname] [VVV] - Weaponskill complete
 
 gloves/handbands/handwear
 T1
-DIY Bracelet [XXX] Okello
-Fingernails [XXX] Okello
-Red Ring [XXX] Okello
-Sweat [XXX] Okello
-Artificial Rime [XXX] Okello
-Battery Acid [XXX] Okello
-Dust Crust [XXX] Okello
-Garden Gloves [XXX] Okello
-Begging Hands [XXX] Okello
-Scratches [XXX] Okello
-Corpse Oil [XXX] Okello
-Magnesia Powder [XXX] Okello
+DIY Bracelet [XXX] Okello [VVV]
+Fingernails [XXX] Okello [VVV]
+Red Ring [XXX] Okello [VVV]
+Sweat [XXX] Okello [VVV]
+Artificial Rime [XXX] Okello [VVV]
+Battery Acid [XXX] Okello [VVV]
+Dust Crust [XXX] Okello [VVV]
+Garden Gloves [XXX] Okello [VVV]
+Begging Hands [XXX] Okello [VVV]
+Scratches [XXX] Okello [VVV]
+Corpse Oil [XXX] Okello [VVV]
+Magnesia Powder [XXX] Okello 
 T2
-Dueling Gloves [XXX] Okello
-Hidden Blade [XXX] Okello
-Toaster Parts [XXX] Okello
-Wet Skin [XXX] Okello
-Still Handwatch [XXX] super.darian.64
-Zap Wristbands [XXX] Okello
-Used Work Gloves [XXX] Okello
-Vine Bracelet [XXX] Okello
-Pastor's Ring [XXX] Okello
-Opened Wrists [XXX] Okello
-Single Glove [XXX] Okello
+Dueling Gloves [XXX] Okello [VVV]
+Hidden Blade [XXX] Okello [VVV]
+Toaster Parts [XXX] Okello [VVV]
+Wet Skin [XXX] Okello [VVV]
+Still Handwatch [XXX] super.darian.64 [VVV]
+Zap Wristbands [XXX] Okello [VVV]
+Used Work Gloves [XXX] Okello [VVV]
+Vine Bracelet [XXX] Okello [VVV]
+Pastor's Ring [XXX] Okello [VVV]
+Opened Wrists [XXX] Okello [VVV]
+Single Glove [XXX] Okello [VVV]
 Alcoholic Tremors [XXX] Okello
 T3
 Whole Wristbands [XXX] Okello
@@ -73,30 +86,30 @@ Illegal Gloves [XXX] Okello
 
 boomerangs/throwables
 T1
-Plastic Boomerang [XXX] Okello
-Plastic Disc [XXX] Billy Mayonnaise
-Flares [XXX] Billy Mayonnaise
-Water Balloons [XXX] Okello & SIE
-Snowballs [XXX] Okello
-Microchips [XXX] Okello
-Flat Pebbles [XXX] Okello
-Limes [XXX] Okello
-Wooden Cross [XXX] Billy Mayonnaise
-Infertile Eggs [XXX] Okello
-Waning Branch [XXX] Billy Mayonnaise
+Plastic Boomerang [XXX] Okello [VVV]
+Plastic Disc [XXX] Billy Mayonnaise [VVV]
+Flares [XXX] Billy Mayonnaise [VVV]
+Water Balloons [XXX] Okello & SIE [VVV]
+Snowballs [XXX] Okello [VVV]
+Microchips [XXX] Okello [VVV]
+Flat Pebbles [XXX] Okello [VVV]
+Limes [XXX] Okello [VVV]
+Wooden Cross [XXX] Billy Mayonnaise [VVV]
+Infertile Eggs [XXX] Okello [VVV]
+Waning Branch [XXX] Billy Mayonnaise [VVV]
 Paper Airplane [XXX] Billy Mayonnaise
 T2
-The Seven [XXX] Okello
-CD Disc [XXX] Okello
-Cherry Bombs [XXX] Okello
-Shower Handle [XXX] Okello
-Icy Angular [XXX] Okello
-Computer Mouse [XXX] Billy Mayonnaise
-Porous Bricks [XXX] Okello
-Expired Ampules [XXX] Okello
-Golden Boomerang [XXX] Okello
-Manifested Smile [XXX] Okello
-Bananic Instrument [XXX] Okello
+The Seven [XXX] Okello [VVV]
+CD Disc [XXX] Okello [VVV]
+Cherry Bombs [XXX] Okello [VVV]
+Shower Handle [XXX] Okello [VVV]
+Icy Angular [XXX] Okello [VVV]
+Computer Mouse [XXX] Billy Mayonnaise [VVV]
+Porous Bricks [XXX] Okello [VVV]
+Expired Ampules [XXX] Okello [VVV]
+Golden Boomerang [XXX] Okello [VVV]
+Manifested Smile [XXX] Okello [VVV]
+Bananic Instrument [XXX] Okello [VVV]
 Rotten Fruit & Veg [XXX] Okello
 T3
 Throwable Nunchaku [XXX] Okello
@@ -140,17 +153,17 @@ Ultimate Boomerang [XXX] Okello
 
 knives/swords/blades
 T1
-Broken Bottle [XXX] Okello
-Dental Tool [XXX] Okello
-Molten Knife [XXX] Okello
-Soupspoon [XXX] Okello
-Ice Cream Scooper [XXX] Okello
-Cable Jack [XXX] Okello
-Dull Chisel [XXX] Okello
-Pine Steak [XXX] Okello
-Golden Needle [XXX] Okello
-Rusty Curl [XXX] Okello
-Black Spike [XXX] Toronacu & Okello
+Broken Bottle [XXX] Okello 
+Dental Tool [XXX] Okello 
+Molten Knife [XXX] Okello 
+Soupspoon [XXX] Okello 
+Ice Cream Scooper [XXX] Okello 
+Cable Jack [XXX] Okello 
+Dull Chisel [XXX] Okello 
+Pine Steak [XXX] Okello 
+Golden Needle [XXX] Okello 
+Rusty Curl [XXX] Okello 
+Black Spike [XXX] Toronacu & Okello 
 Pen [XXX] Okello
 T2
 Rebar [XXX] Okello
@@ -341,43 +354,43 @@ Last US Army Issue
 
 shields/big objects/obstacles
 T1
-Joined Planks [XXX] Pug
-Metal Sheet [XXX] Pug
-Oven Door [XXX] Pug
-10 Gallon Water Jug [XXX] Pug
-Fridge Door [XXX] Pug
-Transformer Box [XXX] Pug
-Olathian Landmass [XXX] Pug
-Uprooted Bush [XXX] Pug
-Church Mozaic [XXX] Okello
-Dirty Mattress [XXX] Pug
-Doomed Protector [XXX] Pug
+Joined Planks [XXX] Pug [VVV]
+Metal Sheet [XXX] Pug [VVV]
+Oven Door [XXX] Pug [VVV]
+10 Gallon Water Jug [XXX] Pug [VVV]
+Fridge Door [XXX] Pug [VVV]
+Transformer Box [XXX] Pug [VVV]
+Olathian Landmass [XXX] Pug [VVV]
+Uprooted Bush [XXX] Pug [VVV]
+Church Mozaic [XXX] Okello [VVV]
+Dirty Mattress [XXX] Pug [VVV]
+Doomed Protector [XXX] Pug [VVV]
 Scapegoat Meatwall [XXX] Okello
 T2
-DIY Shield 
-Rigid Plating [XXX] Okello
-Hot Garbage
-Laundromat Door
-Frost Fortification
-TV Set
-Monstertruck Wheel [XXX] Okello
-Basined Flowerbed
-Prayer House Bench
-Adult Literature [XXX] Okello
-Black Square [XXX] Okello
+DIY Shield [VVV]
+Rigid Plating [XXX] Okello [VVV]
+Hot Garbage [VVV]
+Laundromat Door [VVV]
+Frost Fortification [VVV]
+TV Set [VVV]
+Monstertruck Wheel [XXX] Okello [VVV]
+Basined Flowerbed [VVV]
+Prayer House Bench [VVV]
+Adult Literature [XXX] Okello [VVV]
+Black Square [XXX] Okello [VVV]
 Parry Instrument
 T3
-Foldable Lead Chair
-Barbed Shield
-Firefighter Barricade
-Water Boiler
-Artificial Ice Wall
-Synthesizer Keys [XXX] Okello
-Torn Off Brickwall
-Calamity Riot Sign
-Crusading Shield
-Full Body Sex Doll
-Bodyweight Mirror
+Foldable Lead Chair 
+Barbed Shield 
+Firefighter Barricade 
+Water Boiler 
+Artificial Ice Wall 
+Synthesizer Keys [XXX] Okello 
+Torn Off Brickwall 
+Calamity Riot Sign 
+Crusading Shield 
+Full Body Sex Doll 
+Bodyweight Mirror 
 Gigantic Flower
 T4
 F.B.I. Car Door
