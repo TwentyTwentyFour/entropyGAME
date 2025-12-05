@@ -153,30 +153,30 @@ Ultimate Boomerang [XXX] Okello
 
 knives/swords/blades
 T1
-Broken Bottle [XXX] Okello 
-Dental Tool [XXX] Okello 
-Molten Knife [XXX] Okello 
-Soupspoon [XXX] Okello 
-Ice Cream Scooper [XXX] Okello 
-Cable Jack [XXX] Okello 
-Dull Chisel [XXX] Okello 
-Pine Steak [XXX] Okello 
-Golden Needle [XXX] Okello 
-Rusty Curl [XXX] Okello 
-Black Spike [XXX] Toronacu & Okello 
+Broken Bottle [XXX] Okello [VVV]
+Dental Tool [XXX] Okello [VVV]
+Molten Knife [XXX] Okello [VVV]
+Soupspoon [XXX] Okello [VVV]
+Ice Cream Scooper [XXX] Okello [VVV]
+Cable Jack [XXX] Okello [VVV]
+Dull Chisel [XXX] Okello [VVV]
+Pine Steak [XXX] Okello [VVV]
+Golden Needle [XXX] Okello [VVV]
+Rusty Curl [XXX] Okello [VVV]
+Black Spike [XXX] Toronacu & Okello [VVV]
 Pen [XXX] Okello
 T2
-Rebar [XXX] Okello
-Swiss Knife [XXX] Okello
-DIY Sharp Blowtorch [XXX] Okello
-Fishing Hooks [XXX] Okello
-New Nature Icicles [XXX] Okello
-Sparksword [XXX] Okello
-Masonic Hard Chisel [XXX] Okello
-Jungle Machete [XXX] Okello
-De-Foreskin-Er [XXX] Okello
-AIDS Syringe [XXX] Okello
-Non-Dagger [XXX] Okello
+Rebar [XXX] Okello [VVV]
+Swiss Knife [XXX] Okello [VVV]
+DIY Sharp Blowtorch [XXX] Okello [VVV]
+Fishing Hooks [XXX] Okello [VVV]
+New Nature Icicles [XXX] Okello [VVV]
+Sparksword [XXX] Okello [VVV]
+Masonic Hard Chisel [XXX] Okello [VVV]
+Jungle Machete [XXX] Okello [VVV]
+De-Foreskin-Er [XXX] Okello [VVV]
+AIDS Syringe [XXX] Okello [VVV]
+Non-Dagger [XXX] Okello [VVV]
 Hyperslicer [XXX] Okello
 T3
 Cubist Sword [XXX] Okello
@@ -233,18 +233,18 @@ Stripping Pole [XXX] Billy Mayonnaise
 Quarterstaff [XXX] Billy Mayonnaise
 Old Casey [XXX] Billy Mayonnaise
 T2
-Car Axle [XXX] super.darian.64
-Barbed Club [XXX] super.darian.64
-Space Heater [XXX] super.darian.64
-Steaming Pipework [XXX] super.darian.64
-Sample Of Siberia [XXX] Okello
-Telephone Pole Parts
-Shovel [XXX] Okello
-Green Plough [XXX] Okello
-Preacher's Briefcase [XXX] Okello
-Bladeless Scythe [XXX] super.darian.64 & Okello
-Colorless Bat [XXX] super.darian.64
-Policeman Nightstick
+Car Axle [XXX] super.darian.64 [VVV]
+Barbed Club [XXX] super.darian.64 [VVV]
+Space Heater [XXX] super.darian.64 [VVV]
+Steaming Pipework [XXX] super.darian.64 [VVV]
+Sample Of Siberia [XXX] Okello [VVV]
+Telephone Pole Parts [XXX] Okello [VVV]
+Shovel [XXX] Okello [VVV]
+Green Plough [XXX] Okello [VVV]
+Preacher's Briefcase [XXX] Okello [VVV]
+Bladeless Scythe [XXX] super.darian.64 & Okello [VVV]
+Colorless Bat [XXX] super.darian.64 [VVV]
+Policeman Nightstick [XXX] super.darian.64 & Okello
 T3
 25 Pound Hammer [XXX] super.darian.64
 American Axe [XXX] super.darian.64
@@ -263,7 +263,7 @@ Lobotomizer [XXX] super.darian.64
 Damaged Harpoon [XXX] super.darian.64
 Cattle Branding Iron [XXX] super.darian.64
 Urchin Mace [XXX] super.darian.64
-The North Pole
+The North Pole [XXX] super.darian.64
 Erratic Cattle Prod
 Mini Excavator Claw
 Totem Pole
@@ -287,31 +287,31 @@ Flaying Braindazzler
 
 guns
 T1
-Airgun [XXX] super.darian.64
-Nailgun [XXX] super.darian.64
-Lighter + Deodorant [XXX] Okello
-Water Hose [XXX] super.darian.64
-Artificial Snow Can [XXX] super.darian.64
-No Battery Taser [XXX] super.darian.64
-Defunct Pistol [XXX] super.darian.64
-Germ Spray [XXX] super.darian.64
-Lost Police Issue [XXX] super.darian.64
-Muzzle Flasher [XXX] super.darian.64
-Zip Rip [XXX] Okello
+Airgun [XXX] super.darian.64 [VVV]
+Nailgun [XXX] super.darian.64 [VVV]
+Lighter + Deodorant [XXX] Okello [VVV]
+Water Hose [XXX] super.darian.64 [VVV]
+Artificial Snow Can [XXX] super.darian.64 [VVV]
+No Battery Taser [XXX] super.darian.64 [VVV]
+Defunct Pistol [XXX] super.darian.64 [VVV]
+Germ Spray [XXX] super.darian.64 [VVV]
+Lost Police Issue [XXX] super.darian.64 [VVV]
+Muzzle Flasher [XXX] super.darian.64 [VVV]
+Zip Rip [XXX] Okello [VVV]
 Bullet Chewer [XXX] Okello
 T2
-Osa Handgun [XXX] super.darian.64
-WWI Moseen's Rifle [XXX] super.darian.64
-Caving Flare Gun [XXX] super.darian.64
-Pressure Cleaner
-Ice Resurfacer Parts
-DIY Railgun
-Karlo SMG
-Cyanide Drop Rifle
-High Caliber Blitz
-Uniattacker's Gun
-Imploded Rifle
-Snub Revolver
+Osa Handgun [XXX] super.darian.64 [VVV]
+WWI Moseen's Rifle [XXX] super.darian.64 [VVV]
+Caving Flare Gun [XXX] super.darian.64 [VVV]
+Pressure Cleaner [XXX] Okello [VVV]
+Ice Resurfacer Parts [XXX] Okello [VVV]
+DIY Railgun [XXX] Okello [VVV]
+Karlo SMG [XXX] Okello [VVV]
+Cyanide Drop Rifle [XXX] Okello [VVV]
+High Caliber Blitz [XXX] Okello [VVV]
+Uniattacker's Gun [XXX] Okello [VVV]
+Imploded Rifle [XXX] super.darian.64 & Okello [VVV]
+Snub Revolver [XXX] Okello
 T3
 DIY Blunderbuss [XXX] super.darian.64
 2005 Issue SMG [XXX] super.darian.64
@@ -367,18 +367,18 @@ Dirty Mattress [XXX] Pug [VVV]
 Doomed Protector [XXX] Pug [VVV]
 Scapegoat Meatwall [XXX] Okello
 T2
-DIY Shield [VVV]
+DIY Shield [XXX] Okello [VVV]
 Rigid Plating [XXX] Okello [VVV]
-Hot Garbage [VVV]
-Laundromat Door [VVV]
-Frost Fortification [VVV]
-TV Set [VVV]
+Hot Garbage [XXX] Okello [VVV]
+Washer Door [XXX] Okello [VVV]
+Frost Fortification [XXX] Okello [VVV]
+TV Set [XXX] Okello [VVV]
 Monstertruck Wheel [XXX] Okello [VVV]
-Basined Flowerbed [VVV]
-Prayer House Bench [VVV]
+Basined Flowerbed [XXX] Okello [VVV]
+Prayer House Bench [XXX] Okello [VVV]
 Adult Literature [XXX] Okello [VVV]
 Black Square [XXX] Okello [VVV]
-Parry Instrument
+Parry Instrument [XXX] Okello
 T3
 Foldable Lead Chair 
 Barbed Shield 
@@ -422,7 +422,7 @@ Authentic Chimalli
 whips
 T1
 Rusty Chain [XXX] Okello
-Torn Dog Leash
+Torn Dog Leash [XXX] Okello
 Orange Whip [XXX] Okello
 Fishing Net Thread [XXX] Billy Mayonnaise
 Sky Blue Whip [XXX] Okello
