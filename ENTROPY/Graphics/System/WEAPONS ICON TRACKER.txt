@@ -220,17 +220,17 @@ Aztec Ritual Knife [XXX] Toronacu
 
 clubs/bats
 T1
-Decrepit Pipework [XXX] Billy Mayonnaise
-Nailed Plank [XXX] Billy Mayonnaise
-Cindering Wood [XXX] Billy Mayonnaise
-Plastic Paddle [XXX] Billy Mayonnaise
-Destroyed Icepick [XXX] Billy Mayonnaise
-Standing Airfan [XXX] Billy Mayonnaise
-Broom [XXX] Billy Mayonnaise
-Flower Bundle [XXX] Okello
-Choir's Notestand [XXX] Billy Mayonnaise
-Stripping Pole [XXX] Billy Mayonnaise
-Quarterstaff [XXX] Billy Mayonnaise
+Decrepit Pipework [XXX] Billy Mayonnaise [VVV]
+Nailed Plank [XXX] Billy Mayonnaise [VVV]
+Cindering Wood [XXX] Billy Mayonnaise [VVV]
+Plastic Paddle [XXX] Billy Mayonnaise [VVV]
+Destroyed Icepick [XXX] Billy Mayonnaise [VVV]
+Standing Airfan [XXX] Billy Mayonnaise [VVV]
+Broom [XXX] Billy Mayonnaise [VVV]
+Flower Bundle [XXX] Okello [VVV]
+Choir's Notestand [XXX] Billy Mayonnaise [VVV]
+Stripping Pole [XXX] Billy Mayonnaise [VVV]
+Quarterstaff [XXX] Billy Mayonnaise [VVV]
 Old Casey [XXX] Billy Mayonnaise
 T2
 Car Axle [XXX] super.darian.64 [VVV]
@@ -343,7 +343,7 @@ T5
 Anti-Infantry Minigun
 Comet Launcher [XXX] Billy Mayonnaise
 Shipsinker Handgun
-E.N.T.R.O.P.Y. Gun
+E.N.T.R.O.P.Y. Gun [XXX] Okello
 Anti-Air Pulse Rifle
 Civil War Bolt Action
 Unit 731 Dart Pistol
@@ -421,31 +421,31 @@ Authentic Chimalli
 
 whips
 T1
-Rusty Chain [XXX] Okello
-Torn Dog Leash [XXX] Okello
-Orange Whip [XXX] Okello
-Fishing Net Thread [XXX] Billy Mayonnaise
-Sky Blue Whip [XXX] Okello
-Loose Wires [XXX] Toronacu
-Construction Thread [XXX] Billy Mayonnaise
-Reeds [XXX] Billy Mayonnaise
-Churchman's Necktie [XXX] Billy Mayonnaise
-Crime Tape [XXX] Billy Mayonnaise
-Thick Black Thread [XXX] Toronacu
+Rusty Chain [XXX] Okello [VVV]
+Torn Dog Leash [XXX] Okello [VVV]
+Orange Whip [XXX] Okello [VVV]
+Fishing Net Thread [XXX] Billy Mayonnaise [VVV]
+Sky Blue Whip [XXX] Okello [VVV]
+Loose Wires [XXX] Toronacu [VVV]
+Construction Thread [XXX] Billy Mayonnaise [VVV]
+Reeds [XXX] Billy Mayonnaise [VVV]
+Churchman's Necktie [XXX] Billy Mayonnaise [VVV]
+Crime Tape [XXX] Billy Mayonnaise [VVV]
+Thick Black Thread [XXX] Toronacu [VVV]
 Port De Bras String [XXX] Okello
 
 T2
-Fatherly Belt [XXX] Okello
-Lasher [XXX] Okello
-Fury Flail [XXX] Okello
-The Tongue [XXX] Toronacu
-X-mas Lights [XXX] Toronacu
-US Type Wire Plug [XXX] Toronacu
-Riding Crop [XXX] Toronacu
-Long Hair Braid [XXX] Toronacu
-Holy Spool [XXX] Toronacu
-Noose [XXX] Toronacu
-Jelly-flex-stick [XXX] Toronacu
+Fatherly Belt [XXX] Okello [VVV]
+Lasher [XXX] Okello [VVV]
+Fury Flail [XXX] Okello [VVV]
+The Tongue [XXX] Toronacu [VVV]
+X-mas Lights [XXX] Toronacu [VVV]
+US Type Wire Plug [XXX] Toronacu [VVV]
+Riding Crop [XXX] Toronacu [VVV]
+Long Hair Braid [XXX] Toronacu [VVV]
+Holy Spool [XXX] Toronacu [VVV]
+Noose [XXX] Toronacu [VVV]
+Jelly-flex-stick [XXX] Toronacu [VVV]
 Control Joystick [XXX] Toronacu
 
 T3
