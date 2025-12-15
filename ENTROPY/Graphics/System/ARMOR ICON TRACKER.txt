@@ -34,20 +34,20 @@ Beekeper Helmet [XXX] Pug
 Wide Cowboy Hat [XXX] Pug
 Bucket Hat [XXX] Pug
 Ushanka [XXX] Pug
-Neon Glasses [XXX] Tylobite
-Mining Helmet [XXX] Tylobite
+Neon Glasses 
+Mining Helmet 
 Flower Crown [XXX] Okello
 Blissful Braids [XXX] Toronacu
-Human Viscera [XXX] Tylobite
-Crab Plush Mask [XXX] Tylobite
+Human Viscera [XXX] Okello
+Crab Plush Mask 
 T3
 Heroic Kerchief [XXX] super.darian.64
 SWAT Helm [XXX] super.darian.64
 Pharaoh's Mock Hat [XXX] super.darian.64
 Hawaii Straw Hat [XXX] super.darian.64
-Hockey Helmet
-Diffuser Headgear
-Sombrero
+Hockey Helmet [XXX] Billy Mayonnaise
+Diffuser Headgear [XXX] Billy Mayonnaise
+Sombrero [XXX] Billy Mayonnaise
 WWII Gas Mask [XXX] Pug
 Holy Bandages [XXX] Billy Mayonnaise
 2005 N.Y. Glasses [XXX] Billy Mayonnaise
@@ -74,7 +74,7 @@ Spacesuit Helmet
 Transformation Mask
 New Nature Visor
 Crown Of Thorns [XXX] Toronacu
-JFK's Frontal Lobe
+JFK's Frontal Lobe [XXX] Okello
 Man's Full Scalp
 
 body armor/clothes
