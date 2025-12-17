@@ -321,9 +321,9 @@ Cold War Pistol [XXX] super.darian.64
 Laser Prototype [XXX] super.darian.64
 African Produkt Rifle [XXX] Okello
 Moth Machinegun [XXX] super.darian.64 & Okello
-Saltshooter
+Saltshooter [XXX] Okello
 Whispering Piece
-No Trigger Pistol
+No Trigger Pistol [XXX] Okello
 7 Mile Sniper Rifle [XXX] Fruits
 T4
 Teddy Roosevelt Gun [XXX] super.darian.64
