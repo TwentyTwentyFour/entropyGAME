@@ -267,10 +267,10 @@ The North Pole [XXX] super.darian.64
 Erratic Cattle Prod
 Mini Excavator Claw
 Totem Pole
-Gilded Bellclapper
+Gilded Bellclapper [XXX] Okello
 Gigapenetrator [XXX] Okello
-The Shaft
-Mjolnir Replica
+The Shaft [XXX] super.darian.64
+Mjolnir Replica [XXX] super.darian.64
 T5
 Trench Raiding Club
 Elephant Goad
