@@ -313,13 +313,13 @@ Uniattacker's Gun [XXX] Okello [VVV]
 Imploded Rifle [XXX] super.darian.64 & Okello [VVV]
 Snub Revolver [XXX] Okello
 T3
-DIY Blunderbuss [XXX] super.darian.64
-2005 Issue SMG [XXX] super.darian.64
-Napalm Thrower [XXX] super.darian.64
-Dolphin Rifle [XXX] super.darian.64
-Cold War Pistol [XXX] super.darian.64
-Laser Prototype [XXX] super.darian.64
-African Produkt Rifle [XXX] Okello
+DIY Blunderbuss [XXX] super.darian.64 [VVV]
+2005 Issue SMG [XXX] super.darian.64 [VVV]
+Napalm Thrower [XXX] super.darian.64 [VVV]
+Dolphin Rifle [XXX] super.darian.64 [VVV]
+Cold War Pistol [XXX] super.darian.64 [VVV]
+Laser Prototype [XXX] super.darian.64 [VVV]
+African Produkt Rifle [XXX] Okello [VVV]
 Moth Machinegun [XXX] super.darian.64 & Okello
 Saltshooter [XXX] Okello
 Whispering Piece [XXX] Okello
