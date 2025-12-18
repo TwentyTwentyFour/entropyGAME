@@ -45,17 +45,17 @@ Opened Wrists [XXX] Okello [VVV]
 Single Glove [XXX] Okello [VVV]
 Alcoholic Tremors [XXX] Okello
 T3
-Whole Wristbands [XXX] Okello
-Spikey Knuckles [XXX] Okello
-Cig Burns [XXX] Okello
-Extra Glands [XXX] Okello
-White Coating [XXX] Okello
-Digital Watch [XXX] super.darian.64
-Dark Wristbands [XXX] Okello
-Greenhouse Ring [XXX] Okello
-Blessed Hands [XXX] Okello
-666 Mark [XXX] Okello
-Mom's Bracelet [XXX] Okello
+Whole Wristbands [XXX] Okello [VVV]
+Spikey Knuckles [XXX] Okello [VVV]
+Cig Burns [XXX] Okello [VVV]
+Extra Glands [XXX] Okello [VVV]
+White Coating [XXX] Okello [VVV]
+Digital Watch [XXX] super.darian.64 [VVV]
+Dark Wristbands [XXX] Okello [VVV]
+Greenhouse Ring [XXX] Okello [VVV]
+Blessed Hands [XXX] Okello [VVV]
+666 Mark [XXX] Okello [VVV]
+Mom's Bracelet [XXX] Okello [VVV]
 Neuroticism [XXX] Okello
 T4
 Boxing Gloves [XXX] Okello
@@ -112,17 +112,17 @@ Manifested Smile [XXX] Okello [VVV]
 Bananic Instrument [XXX] Okello [VVV]
 Rotten Fruit & Veg [XXX] Okello
 T3
-Throwable Nunchaku [XXX] Okello
-Sawblade [XXX] Okello
-Napalm Boomerang [XXX] Okello
-Hello To A Surfer [XXX] Okello
-Winter Winds [XXX] Okello
-Y Antennae [XXX] Okello
-Armored Masonry [XXX] Okello
-Coconuts [XXX] Okello
-Saint Graal [XXX] Okello
-Rubber Dicks [XXX] Okello
-Everbending Item [XXX] Okello
+Throwable Nunchaku [XXX] Okello [VVV]
+Sawblade [XXX] Okello [VVV]
+Napalm Boomerang [XXX] Okello [VVV]
+Hello To A Surfer [XXX] Okello [VVV]
+Winter Winds [XXX] Okello [VVV]
+Y Antennae [XXX] Okello [VVV]
+Armored Masonry [XXX] Okello [VVV]
+Coconuts [XXX] Okello [VVV]
+Saint Graal [XXX] Okello [VVV]
+Rubber Dicks [XXX] Okello [VVV]
+Everbending Item [XXX] Okello [VVV]
 The Wrong Turn [XXX] Okello
 T4
 Trauma Instrument [XXX] super.darian.64
@@ -246,17 +246,17 @@ Bladeless Scythe [XXX] super.darian.64 & Okello [VVV]
 Colorless Bat [XXX] super.darian.64 [VVV]
 Policeman Nightstick [XXX] super.darian.64 & Okello
 T3
-25 Pound Hammer [XXX] super.darian.64
-American Axe [XXX] super.darian.64
-DIY Torture Tool [XXX] super.darian.64 & Okello
-Full Fishing Sack [XXX] super.darian.64
-Argon Tank [XXX] super.darian.64
-Kinetic Zinc Rod [XXX] super.darian.64
-Piece Of Kansas City [XXX] super.darian.64
-Mother Gaia Baton [XXX] super.darian.64
-Church Cross [XXX] super.darian.64
-Man's Corpse [XXX] super.darian.64
-Lightbulb Smasher [XXX] Okello
+25 Pound Hammer [XXX] super.darian.64 [VVV]
+American Axe [XXX] super.darian.64 [VVV]
+DIY Torture Tool [XXX] super.darian.64 & Okello [VVV]
+Full Fishing Sack [XXX] super.darian.64 [VVV]
+Argon Tank [XXX] super.darian.64 [VVV]
+Kinetic Zinc Rod [XXX] super.darian.64 [VVV]
+Piece Of Kansas City [XXX] super.darian.64 [VVV]
+Mother Gaia Baton [XXX] super.darian.64 [VVV]
+Church Cross [XXX] super.darian.64  [VVV]
+Man's Corpse [XXX] super.darian.64 [VVV]
+Lightbulb Smasher [XXX] Okello [VVV]
 Half-ton Bellclapper [XXX] Okello
 T4
 Lobotomizer [XXX] super.darian.64
