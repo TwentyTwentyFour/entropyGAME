@@ -322,7 +322,7 @@ Laser Prototype [XXX] super.darian.64
 African Produkt Rifle [XXX] Okello
 Moth Machinegun [XXX] super.darian.64 & Okello
 Saltshooter [XXX] Okello
-Whispering Piece
+Whispering Piece [XXX] Okello
 No Trigger Pistol [XXX] Okello
 7 Mile Sniper Rifle [XXX] Fruits
 T4
