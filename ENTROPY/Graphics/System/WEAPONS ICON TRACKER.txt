@@ -380,17 +380,17 @@ Adult Literature [XXX] Okello [VVV]
 Black Square [XXX] Okello [VVV]
 Parry Instrument [XXX] Okello
 T3
-Foldable Lead Chair 
-Barbed Shield 
-Firefighter Barricade 
-Water Boiler 
-Artificial Ice Wall 
+Foldable Lead Chair [XXX] Okello 
+Barbed Shield [XXX] Okello 
+Firefighter Barricade [XXX] Pug & Okello
+Water Boiler [XXX] Okello 
+Artificial Ice Wall [XXX] Okello 
 Synthesizer Keys [XXX] Okello 
-Torn Off Brickwall 
+Torn Off Brickwall [XXX] Okello 
 Calamity Riot Sign 
 Crusading Shield 
-Full Body Sex Doll 
-Bodyweight Mirror 
+Full Body Sex Doll [XXX] Okello 
+Bodyweight Mirror [XXX] Okello 
 Gigantic Flower
 T4
 F.B.I. Car Door
