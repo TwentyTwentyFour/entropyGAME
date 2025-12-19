@@ -320,10 +320,10 @@ Dolphin Rifle [XXX] super.darian.64 [VVV]
 Cold War Pistol [XXX] super.darian.64 [VVV]
 Laser Prototype [XXX] super.darian.64 [VVV]
 African Produkt Rifle [XXX] Okello [VVV]
-Moth Machinegun [XXX] super.darian.64 & Okello
-Saltshooter [XXX] Okello
-Whispering Piece [XXX] Okello
-No Trigger Pistol [XXX] Okello
+Moth Machinegun [XXX] super.darian.64 & Okello [VVV]
+Saltshooter [XXX] Okello [VVV]
+Whispering Piece [XXX] Okello [VVV]
+No Trigger Pistol [XXX] Okello [VVV]
 7 Mile Sniper Rifle [XXX] Fruits
 T4
 Teddy Roosevelt Gun [XXX] super.darian.64
@@ -450,17 +450,17 @@ Control Joystick [XXX] Toronacu
 
 T3
 Motorbike Chain [XXX] Okello
-Barbed Wire 
-Melting Metal
+Barbed Wire [XXX] Okello
+Melting Metal [XXX] super.darian.64
 Sail Strap [XXX] Okello
 Ice Cream Whip [XXX] Okello
-Electric Guitar String
-Hulking Urban Flail
-Snake Cadaver
+Electric Guitar String [XXX] Toronacu & Okello
+Hulking Urban Flail [XXX] Okello
+Snake Cadaver [XXX] Okello
 Flagellant Whip [XXX] Okello
 B.D.S.M. Equipment [XXX] Okello
-Silicon Gooey Hand
-Juice Extractor 
+Silicon Gooey Hand [XXX] Okello
+Juice Extractor [XXX] Okello
 
 T4
 Diegetic Mauler
