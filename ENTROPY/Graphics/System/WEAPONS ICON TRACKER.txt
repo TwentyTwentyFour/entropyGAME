@@ -449,17 +449,17 @@ Jelly-flex-stick [XXX] Toronacu [VVV]
 Control Joystick [XXX] Toronacu
 
 T3
-Motorbike Chain [XXX] Okello
-Barbed Wire [XXX] Okello
-Melting Metal [XXX] super.darian.64
-Sail Strap [XXX] Okello
-Ice Cream Whip [XXX] Okello
-Electric Guitar String [XXX] Toronacu & Okello
-Hulking Urban Flail [XXX] Okello
-Snake Cadaver [XXX] Okello
-Flagellant Whip [XXX] Okello
-B.D.S.M. Equipment [XXX] Okello
-Silicon Gooey Hand [XXX] Okello
+Motorbike Chain [XXX] Okello [VVV]
+Barbed Wire [XXX] Okello [VVV]
+Melting Metal [XXX] super.darian.64 [VVV]
+Sail Strap [XXX] Okello [VVV]
+Ice Cream Whip [XXX] Okello [VVV]
+Electric Guitar String [XXX] Toronacu & Okello [VVV]
+Hulking Urban Flail [XXX] Okello [VVV]
+Snake Cadaver [XXX] Okello [VVV]
+Flagellant Whip [XXX] Okello [VVV]
+B.D.S.M. Equipment [XXX] Okello [VVV]
+Silicon Gooey Hand [XXX] Okello [VVV]
 Juice Extractor [XXX] Okello
 
 T4
