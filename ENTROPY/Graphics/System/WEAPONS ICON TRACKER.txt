@@ -128,7 +128,7 @@ T4
 Trauma Instrument [XXX] super.darian.64
 Ten Thousand Cuts [XXX] super.darian.64
 A.S.H.E.S. [XXX] Okello
-Heavy Weather
+Heavy Weather [XXX] Okello
 Ice Moon Europa [XXX] SIE & Okello
 Solar Panel Plates [XXX] super.darian.64
 White House Slabs [XXX] super.darian.64
@@ -179,17 +179,17 @@ AIDS Syringe [XXX] Okello [VVV]
 Non-Dagger [XXX] Okello [VVV]
 Hyperslicer [XXX] Okello
 T3
-Cubist Sword [XXX] Okello
-Exotic Sai [XXX] Okello
-Blazing Tungsten [XXX] Okello
-Refined Sawfish Parts [XXX] Okello
-Frigid Blade [XXX] Okello
-Static Soundwaver [XXX] Okello
-Stuck Excalibur [XXX] super.darian.64
-Green Sickle [XXX] Okello
-Radiant Rapier [XXX] Okello
-Suicider's Tool [XXX] Okello
-Quiet Thinning [XXX] Okello
+Cubist Sword [XXX] Okello [VVV]
+Exotic Sai [XXX] Okello [VVV]
+Blazing Tungsten [XXX] Okello [VVV]
+Refined Sawfish Parts [XXX] Okello [VVV]
+Frigid Blade [XXX] Okello [VVV]
+Static Soundwaver [XXX] Okello [VVV]
+Stuck Excalibur [XXX] super.darian.64 [VVV]
+Green Sickle [XXX] Okello [VVV]
+Radiant Rapier [XXX] Okello [VVV]
+Suicider's Tool [XXX] Okello [VVV]
+Quiet Thinning [XXX] Okello [VVV]
 Red Marginal [XXX] Okello
 T4
 Heavy Leiomano [XXX] Okello
@@ -343,7 +343,7 @@ T5
 Anti-Infantry Minigun
 Comet Launcher [XXX] Billy Mayonnaise
 Shipsinker Handgun
-E.N.T.R.O.P.Y. Gun [XXX] Okello
+E.N.T.R.O.P.Y. Gun [XXX] Okello [VVV]
 Anti-Air Pulse Rifle
 Civil War Bolt Action
 Unit 731 Dart Pistol
@@ -380,18 +380,18 @@ Adult Literature [XXX] Okello [VVV]
 Black Square [XXX] Okello [VVV]
 Parry Instrument [XXX] Okello
 T3
-Foldable Lead Chair [XXX] Okello 
-Barbed Shield [XXX] Okello 
-Firefighter Barricade [XXX] Pug & Okello
-Water Boiler [XXX] Okello 
-Artificial Ice Wall [XXX] Okello 
-Synthesizer Keys [XXX] Okello 
-Torn Off Brickwall [XXX] Okello 
-Calamity Riot Sign 
-Crusading Shield 
-Full Body Sex Doll [XXX] Okello 
-Bodyweight Mirror [XXX] Okello 
-Gigantic Flower
+Foldable Lead Chair [XXX] Okello [VVV]
+Barbed Shield [XXX] Okello [VVV]
+Firefighter Barricade [XXX] Pug & Okello [VVV]
+Water Boiler [XXX] Okello [VVV]
+Artificial Ice Wall [XXX] Okello [VVV]
+Synthesizer Keys [XXX] Okello [VVV]
+Torn Off Brickwall [XXX] Okello [VVV]
+Calamity Riot Sign [XXX] Gash [VVV]
+Crusading Shield [XXX] Gash [VVV]
+Full Body Sex Doll [XXX] Okello [VVV]
+Bodyweight Mirror [XXX] Okello [VVV]
+Gigantic Flower [XXX] super.darian.64 ? Okello
 T4
 F.B.I. Car Door
 Spike Canopy Barrier
