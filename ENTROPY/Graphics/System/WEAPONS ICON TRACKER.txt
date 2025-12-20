@@ -391,14 +391,14 @@ Calamity Riot Sign [XXX] Gash [VVV]
 Crusading Shield [XXX] Gash [VVV]
 Full Body Sex Doll [XXX] Okello [VVV]
 Bodyweight Mirror [XXX] Okello [VVV]
-Gigantic Flower [XXX] super.darian.64 ? Okello
+Gigantic Flower [XXX] super.darian.64 & Okello
 T4
-F.B.I. Car Door
-Spike Canopy Barrier
-Lava Coating
-95% Fluid Shield
-Svalinn
-Telecommunications
+F.B.I. Car Door [XXX] super.darian.64 
+Spike Canopy Barrier [XXX] super.darian.64 
+Lava Coating [XXX] super.darian.64 
+95% Fluid Shield [XXX] Okello
+Svalinn [XXX] super.darian.64 
+Telecommunications [XXX] super.darian.64 
 Justice House Shield
 Whole Animal Head
 Divine Iconography [XXX] Okello
