@@ -399,12 +399,12 @@ Lava Coating [XXX] super.darian.64
 95% Fluid Shield [XXX] Okello
 Svalinn [XXX] super.darian.64 
 Telecommunications [XXX] super.darian.64 
-Justice House Shield
-Whole Animal Head
+Justice House Shield [XXX] super.darian.64 
+Whole Animal Head [XXX] super.darian.64 
 Divine Iconography [XXX] Okello
-Septic Tank
+Septic Tank [XXX] Okello
 Kindness [XXX] Okello
-Riot Suppress Shield
+Riot Suppress Shield [XXX] Gash & super.darian.64 
 T5
 Unmovable Object
 Czech Hedgehog
@@ -458,20 +458,20 @@ Electric Guitar String [XXX] Toronacu & Okello [VVV]
 Hulking Urban Flail [XXX] Okello [VVV]
 Snake Cadaver [XXX] Okello [VVV]
 Flagellant Whip [XXX] Okello [VVV]
-B.D.S.M. Equipment [XXX] Okello [VVV]
+B.D.S.M. Equipment [XXX] SIE & Okello [VVV]
 Silicon Gooey Hand [XXX] Okello [VVV]
 Juice Extractor [XXX] Okello
 
 T4
-Diegetic Mauler
+Diegetic Mauler [XXX] Okello
 Cat O Nine Tails [XXX] Okello
-Gehenna Chains
-The Coastline
-New Ice Age
-Subdued Lightning
+Gehenna Chains [XXX] Okello
+The Coastline [XXX] super.darian.64 & Okello 
+New Ice Age [XXX] SIE & Okello
+Subdued Lightning [XXX] Okello
 Bridge Cable [XXX] Okello
 New Nature Thorns [XXX] Okello
-Whipping Of Jesus
+Whipping Of Jesus [XXX] super.darian.64 & Okello 
 Aegis Wrecker [XXX] Okello
 Fibonacci Sequence [XXX] Okello
 Man's Extinction [XXX] Toronacu
