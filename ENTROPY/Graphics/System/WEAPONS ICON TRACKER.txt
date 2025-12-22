@@ -403,7 +403,7 @@ Justice House Shield [XXX] super.darian.64
 Whole Animal Head [XXX] super.darian.64 
 Divine Iconography [XXX] Okello
 Septic Tank [XXX] Okello
-Kindness [XXX] Okello
+Kindness [XXX] Okello [VVV]
 Riot Suppress Shield [XXX] Gash & super.darian.64 
 T5
 Unmovable Object
