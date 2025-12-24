@@ -328,15 +328,15 @@ No Trigger Pistol [XXX] Okello [VVV]
 T4
 Teddy Roosevelt Gun [XXX] super.darian.64
 Nouriin 550 [XXX] Okello 
-Dave Crocket Piece
-Riot Disperser
+Dave Crocket Piece [XXX] super.darian.64 
+Riot Disperser [XXX] super.darian.64 
 PP-15 Bison [XXX] Okello 
-Arc Generator
-Hand Mortar
-Experiment 5
-Pope's Pistol
-666 Karat Opal Gun
-Sugary Firearm
+Arc Generator [XXX] Okello & super.darian.64 
+Hand Mortar [XXX] super.darian.64 
+Experiment 5 [XXX] super.darian.64 
+Pope's Pistol [XXX] Okello & super.darian.64 
+666 Karat Opal Gun [XXX] super.darian.64 
+Sugary Firearm [XXX] super.darian.64 
 Bank Clearing Piece
 T5
 100 Deck Shotgun
@@ -400,7 +400,7 @@ Lava Coating [XXX] super.darian.64
 Svalinn [XXX] super.darian.64 
 Telecommunications [XXX] super.darian.64 
 Justice House Shield [XXX] super.darian.64 
-Whole Animal Head [XXX] super.darian.64 
+Whole Animal Head [XXX] super.darian.64 [VVV]
 Divine Iconography [XXX] Okello
 Septic Tank [XXX] Okello
 Kindness [XXX] Okello [VVV]
