@@ -237,7 +237,7 @@ Car Axle [XXX] super.darian.64 [VVV]
 Barbed Club [XXX] super.darian.64 [VVV]
 Space Heater [XXX] super.darian.64 [VVV]
 Steaming Pipework [XXX] super.darian.64 [VVV]
-Sample Of Siberia [XXX] Okello [VVV]
+Sample Of Siberia [XXX] super.darian.64 [VVV]
 Telephone Pole Parts [XXX] Okello [VVV]
 Shovel [XXX] Okello [VVV]
 Green Plough [XXX] Okello [VVV]
@@ -264,9 +264,9 @@ Damaged Harpoon [XXX] super.darian.64
 Cattle Branding Iron [XXX] super.darian.64
 Urchin Mace [XXX] super.darian.64
 The North Pole [XXX] super.darian.64
-Erratic Cattle Prod
-Mini Excavator Claw
-Totem Pole
+Erratic Cattle Prod [XXX] Okello
+Mini Excavator Claw [XXX] Okello 
+Totem Pole [XXX] Okello
 Gilded Bellclapper [XXX] Okello
 Gigapenetrator [XXX] Okello
 The Shaft [XXX] super.darian.64
@@ -327,10 +327,10 @@ No Trigger Pistol [XXX] Okello [VVV]
 7 Mile Sniper Rifle [XXX] Fruits
 T4
 Teddy Roosevelt Gun [XXX] super.darian.64
-Nouriin 550
+Nouriin 550 [XXX] Okello 
 Dave Crocket Piece
 Riot Disperser
-PP-15 Bison
+PP-15 Bison [XXX] Okello 
 Arc Generator
 Hand Mortar
 Experiment 5

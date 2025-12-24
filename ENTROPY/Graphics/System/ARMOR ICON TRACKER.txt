@@ -79,11 +79,11 @@ Man's Full Scalp
 
 body armor/clothes
 T1
-DIY Chest Strap
-Torn Kevlar
+DIY Chest Strap [XXX] Billy Mayonnaise
+Torn Kevlar [XXX] Billy Mayonnaise
 Scarlet Poncho [XXX] Pug
 Flimsy Raincoat [XXX] Pug
-Critter Hide
+Critter Hide [XXX] Billy Mayonnaise
 Rubber Shirt
 Jorongo
 Full Cotton Textile
