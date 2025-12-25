@@ -128,7 +128,7 @@ T4
 Trauma Instrument [XXX] super.darian.64
 Ten Thousand Cuts [XXX] super.darian.64
 A.S.H.E.S. [XXX] Okello
-Heavy Weather [XXX] Okello
+Heavy Weather [XXX] Okello [VVV]
 Ice Moon Europa [XXX] SIE & Okello
 Solar Panel Plates [XXX] super.darian.64
 White House Slabs [XXX] super.darian.64
@@ -273,14 +273,14 @@ The Shaft [XXX] super.darian.64
 Mjolnir Replica [XXX] super.darian.64
 T5
 Trench Raiding Club
-Elephant Goad
-Proxy Sun Flail
-USS Liberty Anchor
-Iceberg Basher
-N.A.S.A. Sattelite
-Mantle Demolition
-Neon Treecrowns
-Staff Of Moses
+Elephant Goad [XXX] Okello
+Proxy Sun Flail [XXX] Okello
+USS Liberty Anchor [XXX] Okello
+Iceberg Basher [XXX] Okello
+N.A.S.A. Sattelite [XXX] super.darian.64 & Okello
+Mantle Demolition [XXX] Okello
+Neon Treecrowns [XXX] SIE & Okello
+Staff Of Moses [XXX] Okello
 Woman's Corpse
 Videoo Nihil
 Flaying Braindazzler
@@ -326,18 +326,18 @@ Whispering Piece [XXX] Okello [VVV]
 No Trigger Pistol [XXX] Okello [VVV]
 7 Mile Sniper Rifle [XXX] Fruits
 T4
-Teddy Roosevelt Gun [XXX] super.darian.64
-Nouriin 550 [XXX] Okello 
-Dave Crocket Piece [XXX] super.darian.64 
-Riot Disperser [XXX] super.darian.64 
-PP-15 Bison [XXX] Okello 
-Arc Generator [XXX] Okello & super.darian.64 
+Teddy Roosevelt Gun [XXX] super.darian.64 [VVV]
+Nouriin 550 [XXX] Okello [VVV]
+Dave Crocket Piece [XXX] super.darian.64 [VVV]
+Riot Disperser [XXX] super.darian.64 [VVV]
+PP-15 Bison [XXX] Okello [VVV]
+Arc Generator [XXX] Okello & super.darian.64 [VVV]
 Hand Mortar [XXX] super.darian.64 
-Experiment 5 [XXX] super.darian.64 
-Pope's Pistol [XXX] Okello & super.darian.64 
-666 Karat Opal Gun [XXX] super.darian.64 
-Sugary Firearm [XXX] super.darian.64 
-Bank Clearing Piece
+Experiment 5 [XXX] super.darian.64 [VVV]
+Pope's Pistol [XXX] Okello & super.darian.64 [VVV]
+666 Karat Opal Gun [XXX] super.darian.64 [VVV]
+Sugary Firearm [XXX] super.darian.64 [VVV]
+Bank Clearing Piece [XXX] super.darian.64
 T5
 100 Deck Shotgun
 Anti-Infantry Minigun
@@ -393,16 +393,16 @@ Full Body Sex Doll [XXX] Okello [VVV]
 Bodyweight Mirror [XXX] Okello [VVV]
 Gigantic Flower [XXX] super.darian.64 & Okello
 T4
-F.B.I. Car Door [XXX] super.darian.64 
-Spike Canopy Barrier [XXX] super.darian.64 
-Lava Coating [XXX] super.darian.64 
-95% Fluid Shield [XXX] Okello
-Svalinn [XXX] super.darian.64 
-Telecommunications [XXX] super.darian.64 
-Justice House Shield [XXX] super.darian.64 
+F.B.I. Car Door [XXX] super.darian.64 [VVV]
+Spike Canopy Barrier [XXX] super.darian.64 [VVV]
+Lava Coating [XXX] super.darian.64 [VVV]
+95% Fluid Shield [XXX] Okello [VVV]
+Svalinn [XXX] super.darian.64  [VVV]
+Telecommunications [XXX] super.darian.64 [VVV]
+Justice House Shield [XXX] super.darian.64 [VVV]
 Whole Animal Head [XXX] super.darian.64 [VVV]
-Divine Iconography [XXX] Okello
-Septic Tank [XXX] Okello
+Divine Iconography [XXX] Okello [VVV]
+Septic Tank [XXX] Okello [VVV]
 Kindness [XXX] Okello [VVV]
 Riot Suppress Shield [XXX] Gash & super.darian.64 
 T5
@@ -463,7 +463,7 @@ Silicon Gooey Hand [XXX] Okello [VVV]
 Juice Extractor [XXX] Okello
 
 T4
-Diegetic Mauler [XXX] Okello
+Diegetic Mauler [XXX] Okello [VVV]
 Cat O Nine Tails [XXX] Okello
 Gehenna Chains [XXX] Okello
 The Coastline [XXX] super.darian.64 & Okello 
