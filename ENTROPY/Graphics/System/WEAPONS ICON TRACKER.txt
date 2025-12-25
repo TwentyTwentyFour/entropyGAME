@@ -332,7 +332,7 @@ Dave Crocket Piece [XXX] super.darian.64 [VVV]
 Riot Disperser [XXX] super.darian.64 [VVV]
 PP-15 Bison [XXX] Okello [VVV]
 Arc Generator [XXX] Okello & super.darian.64 [VVV]
-Hand Mortar [XXX] super.darian.64 
+Hand Mortar [XXX] super.darian.64 [VVV]
 Experiment 5 [XXX] super.darian.64 [VVV]
 Pope's Pistol [XXX] Okello & super.darian.64 [VVV]
 666 Karat Opal Gun [XXX] super.darian.64 [VVV]
