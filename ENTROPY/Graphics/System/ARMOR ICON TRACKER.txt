@@ -35,7 +35,7 @@ Wide Cowboy Hat [XXX] Pug
 Bucket Hat [XXX] Pug
 Ushanka [XXX] Pug
 Neon Glasses 
-Mining Helmet 
+Mining Helmet [XXX] Okello
 Flower Crown [XXX] Okello
 Blissful Braids [XXX] Toronacu
 Human Viscera [XXX] Okello
@@ -84,9 +84,9 @@ Torn Kevlar [XXX] Billy Mayonnaise
 Scarlet Poncho [XXX] Pug
 Flimsy Raincoat [XXX] Pug
 Critter Hide [XXX] Billy Mayonnaise
-Rubber Shirt
-Jorongo
-Full Cotton Textile
+Rubber Shirt [XXX] Pug
+Jorongo [XXX] Pug
+Full Cotton Textile [XXX] Pug
 Church Carpet [XXX] Pug
 Terracotta Beads [XXX] Pug
 Holey Poncho [XXX] Pug
@@ -99,7 +99,7 @@ Thermal Clothing [XXX] Fruits
 Static Wool Pajamas
 Desert Camo Getup
 Linen Shawl
-Prayer Mantle
+Prayer Mantle [XXX] Pug
 Prisoner Jumpsuit [XXX] Pug
 Cadaver's Garb
 T3
@@ -173,7 +173,7 @@ Insulated Bib Pants
 Quicksilver Shins
 Mummy Bandages
 Tropic Ornaments
-Priest's Trousers
+Priest's Trousers [XXX] Pug
 Addict's Shorts
 Half-Authentic Kilt
 T4
