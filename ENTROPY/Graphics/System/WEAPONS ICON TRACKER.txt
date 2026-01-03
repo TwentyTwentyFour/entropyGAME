@@ -272,7 +272,7 @@ Gigapenetrator [XXX] Okello
 The Shaft [XXX] super.darian.64
 Mjolnir Replica [XXX] super.darian.64
 T5
-Trench Raiding Club
+Trench Raiding Club [XXX] super.darian.64 & Okello
 Elephant Goad [XXX] Okello
 Proxy Sun Flail [XXX] Okello
 USS Liberty Anchor [XXX] Okello
@@ -283,7 +283,7 @@ Neon Treecrowns [XXX] SIE & Okello
 Staff Of Moses [XXX] Okello
 Woman's Corpse [XXX] Okello
 Videoo Nihil [XXX] Billy Mayonnaise & Okello
-Flaying Braindazzler
+Flaying Braindazzler [XXX] super.darian.64 & Okello
 
 guns
 T1
@@ -340,17 +340,17 @@ Sugary Firearm [XXX] super.darian.64 [VVV]
 Bank Clearing Piece [XXX] super.darian.64
 T5
 100 Deck Shotgun
-Anti-Infantry Minigun
+Anti-Infantry Minigun [XXX] Okello
 Comet Launcher [XXX] Billy Mayonnaise
-Shipsinker Handgun
+Shipsinker Handgun [XXX] Okello
 E.N.T.R.O.P.Y. Gun [XXX] Okello [VVV]
-Anti-Air Pulse Rifle
+Anti-Air Pulse Rifle [XXX] Okello
 Civil War Bolt Action
-Unit 731 Dart Pistol
-America's Finest Gun
-Jahannam Bullets
+Unit 731 Dart Pistol [XXX] Okello
+America's Finest Gun [XXX] Fruits & Okello 
+Jahannam Bullets [XXX] Okello
 Maximum Caliber
-Last US Army Issue
+Last US Army Issue [XXX] Fruits & Okello 
 
 shields/big objects/obstacles
 T1
