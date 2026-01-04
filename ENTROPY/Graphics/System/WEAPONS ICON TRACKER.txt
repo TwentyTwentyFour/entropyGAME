@@ -133,7 +133,7 @@ Ice Moon Europa [XXX] SIE & Okello
 Solar Panel Plates [XXX] super.darian.64
 White House Slabs [XXX] super.darian.64
 Acute Viral Angle [XXX] Okello
-The Bible [XXX] super.darian.64
+The Bible [XXX] super.darian.64 [VVV]
 Aborted Biomaterial [XXX] super.darian.64
 Gun Beyond Broken [XXX] super.darian.64
 New Olathe Classic [XXX] Okello
@@ -339,17 +339,17 @@ Pope's Pistol [XXX] Okello & super.darian.64 [VVV]
 Sugary Firearm [XXX] super.darian.64 [VVV]
 Bank Clearing Piece [XXX] super.darian.64
 T5
-100 Deck Shotgun
+100 Deck Shotgun [XXX] super.darian.64 & Okello 
 Anti-Infantry Minigun [XXX] Okello
 Comet Launcher [XXX] Billy Mayonnaise
 Shipsinker Handgun [XXX] Okello
 E.N.T.R.O.P.Y. Gun [XXX] Okello [VVV]
 Anti-Air Pulse Rifle [XXX] Okello
-Civil War Bolt Action
+Civil War Bolt Action [XXX] super.darian.64 & Okello 
 Unit 731 Dart Pistol [XXX] Okello
 America's Finest Gun [XXX] Fruits & Okello 
 Jahannam Bullets [XXX] Okello
-Maximum Caliber
+Maximum Caliber [XXX] super.darian.64 & Okello 
 Last US Army Issue [XXX] Fruits & Okello 
 
 shields/big objects/obstacles
@@ -406,18 +406,18 @@ Septic Tank [XXX] Okello [VVV]
 Kindness [XXX] Okello [VVV]
 Riot Suppress Shield [XXX] Gash & super.darian.64 
 T5
-Unmovable Object
-Czech Hedgehog
-Betelgeuse
-Atlantic Ocean
+Unmovable Object [XXX] Pug & Okello 
+Czech Hedgehog [XXX] Okello 
+Betelgeuse [XXX] Okello 
+Atlantic Ocean [XXX] Okello 
 Defunct Cryocamera
 Storming Nebula
-Planet Earth
-Old And New Nature
-God's Saving Grace
+Planet Earth [XXX] Okello 
+Old And New Nature [XXX] Okello
+God's Saving Grace [XXX] Okello
 De Sade's Doctrine [XXX] Okello
-Superstes
-Authentic Chimalli
+Superstes [XXX] Okello
+Authentic Chimalli [XXX] Toronacu
 
 whips
 T1
@@ -464,16 +464,16 @@ Juice Extractor [XXX] Okello
 
 T4
 Diegetic Mauler [XXX] Okello [VVV]
-Cat O Nine Tails [XXX] Okello
-Gehenna Chains [XXX] Okello
-The Coastline [XXX] super.darian.64 & Okello 
-New Ice Age [XXX] SIE & Okello
-Subdued Lightning [XXX] Okello
-Bridge Cable [XXX] Okello
-New Nature Thorns [XXX] Okello
-Whipping Of Jesus [XXX] super.darian.64 & Okello 
-Aegis Wrecker [XXX] Okello
-Fibonacci Sequence [XXX] Okello
+Cat O Nine Tails [XXX] Okello [VVV]
+Gehenna Chains [XXX] Okello [VVV]
+The Coastline [XXX] super.darian.64 & Okello [VVV]
+New Ice Age [XXX] SIE & Okello [VVV]
+Subdued Lightning [XXX] Okello [VVV]
+Bridge Cable [XXX] Okello [VVV]
+New Nature Thorns [XXX] Okello [VVV]
+Whipping Of Jesus [XXX] super.darian.64 & Okello [VVV]
+Aegis Wrecker [XXX] Okello [VVV]
+Fibonacci Sequence [XXX] Okello [VVV]
 Man's Extinction [XXX] Toronacu
 
 T5
