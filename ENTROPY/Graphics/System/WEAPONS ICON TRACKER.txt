@@ -125,16 +125,16 @@ Rubber Dicks [XXX] Okello [VVV]
 Everbending Item [XXX] Okello [VVV]
 The Wrong Turn [XXX] Okello
 T4
-Trauma Instrument [XXX] super.darian.64
-Ten Thousand Cuts [XXX] super.darian.64
-A.S.H.E.S. [XXX] Okello
+Trauma Instrument [XXX] super.darian.64 [VVV]
+Ten Thousand Cuts [XXX] super.darian.64 [VVV]
+A.S.H.E.S. [XXX] Okello [VVV]
 Heavy Weather [XXX] Okello [VVV]
 Ice Moon Europa [XXX] SIE & Okello
 Solar Panel Plates [XXX] super.darian.64
 White House Slabs [XXX] super.darian.64
-Acute Viral Angle [XXX] Okello
+Acute Viral Angle [XXX] Okello [VVV]
 The Bible [XXX] super.darian.64 [VVV]
-Aborted Biomaterial [XXX] super.darian.64
+Aborted Biomaterial [XXX] super.darian.64 [VVV]
 Gun Beyond Broken [XXX] super.darian.64
 New Olathe Classic [XXX] Okello
 T5
