@@ -129,13 +129,13 @@ Trauma Instrument [XXX] super.darian.64 [VVV]
 Ten Thousand Cuts [XXX] super.darian.64 [VVV]
 A.S.H.E.S. [XXX] Okello [VVV]
 Heavy Weather [XXX] Okello [VVV]
-Ice Moon Europa [XXX] SIE & Okello
-Solar Panel Plates [XXX] super.darian.64
-White House Slabs [XXX] super.darian.64
+Ice Moon Europa [XXX] SIE & Okello [VVV]
+Solar Panel Plates [XXX] super.darian.64 [VVV]
+White House Slabs [XXX] super.darian.64 [VVV]
 Acute Viral Angle [XXX] Okello [VVV]
 The Bible [XXX] super.darian.64 [VVV]
 Aborted Biomaterial [XXX] super.darian.64 [VVV]
-Gun Beyond Broken [XXX] super.darian.64
+Gun Beyond Broken [XXX] super.darian.64 [VVV]
 New Olathe Classic [XXX] Okello
 T5
 Miniscule ICBM Dud [XXX] Okello
