@@ -262,7 +262,7 @@ T4
 Lobotomizer [XXX] super.darian.64 [VVV]
 Damaged Harpoon [XXX] super.darian.64 [VVV]
 Cattle Branding Iron [XXX] super.darian.64 [VVV]
-Urchin Mace [XXX] super.darian.64
+Urchin Mace [XXX] super.darian.64 [VVV]
 The North Pole [XXX] super.darian.64 [VVV]
 Erratic Cattle Prod [XXX] Okello [VVV]
 Mini Excavator Claw [XXX] Okello [VVV]
