@@ -259,16 +259,16 @@ Man's Corpse [XXX] super.darian.64 [VVV]
 Lightbulb Smasher [XXX] Okello [VVV]
 Half-ton Bellclapper [XXX] Okello
 T4
-Lobotomizer [XXX] super.darian.64
-Damaged Harpoon [XXX] super.darian.64
-Cattle Branding Iron [XXX] super.darian.64
+Lobotomizer [XXX] super.darian.64 [VVV]
+Damaged Harpoon [XXX] super.darian.64 [VVV]
+Cattle Branding Iron [XXX] super.darian.64 [VVV]
 Urchin Mace [XXX] super.darian.64
-The North Pole [XXX] super.darian.64
-Erratic Cattle Prod [XXX] Okello
-Mini Excavator Claw [XXX] Okello 
+The North Pole [XXX] super.darian.64 [VVV]
+Erratic Cattle Prod [XXX] Okello [VVV]
+Mini Excavator Claw [XXX] Okello [VVV]
 Totem Pole [XXX] Okello
 Gilded Bellclapper [XXX] Okello
-Gigapenetrator [XXX] Okello
+Gigapenetrator [XXX] Okello [VVV]
 The Shaft [XXX] super.darian.64
 Mjolnir Replica [XXX] super.darian.64
 T5
