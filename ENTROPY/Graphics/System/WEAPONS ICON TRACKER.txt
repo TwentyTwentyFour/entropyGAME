@@ -411,7 +411,7 @@ Czech Hedgehog [XXX] Okello
 Betelgeuse [XXX] Okello 
 Atlantic Ocean [XXX] Okello 
 Defunct Cryocamera
-Storming Nebula
+Storming Nebula [XXX] Okello 
 Planet Earth [XXX] Okello 
 Old And New Nature [XXX] Okello
 God's Saving Grace [XXX] Okello
@@ -478,7 +478,7 @@ Man's Extinction [XXX] Toronacu
 
 T5
 Breeder Bot Limb
-Pierce The Reality
+Pierce The Reality [XXX] Okello 
 Volcanic Mantle Strip
 Niagra Falls
 Saturn Coils
