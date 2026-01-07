@@ -266,10 +266,10 @@ Urchin Mace [XXX] super.darian.64 [VVV]
 The North Pole [XXX] super.darian.64 [VVV]
 Erratic Cattle Prod [XXX] Okello [VVV]
 Mini Excavator Claw [XXX] Okello [VVV]
-Totem Pole [XXX] Okello
-Gilded Bellclapper [XXX] Okello
+Totem Pole [XXX] Okello [VVV]
+Gilded Bellclapper [XXX] Okello [VVV]
 Gigapenetrator [XXX] Okello [VVV]
-The Shaft [XXX] super.darian.64
+The Shaft [XXX] super.darian.64 [VVV]
 Mjolnir Replica [XXX] super.darian.64
 T5
 Trench Raiding Club [XXX] super.darian.64 & Okello
