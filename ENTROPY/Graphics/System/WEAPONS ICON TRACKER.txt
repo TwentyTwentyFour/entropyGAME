@@ -59,10 +59,10 @@ Mom's Bracelet [XXX] Okello [VVV]
 Neuroticism [XXX] Okello
 T4
 Boxing Gloves [XXX] Okello
-Hands That Kill [XXX] Okello
-Starblaze [XXX] Okello
-Rainmakers [XXX] Okello
-Alpine Snow [XXX] Okello
+Hands That Kill [XXX] Okello [VVV]
+Starblaze [XXX] Okello [VVV]
+Rainmakers [XXX] Okello [VVV]
+Alpine Snow [XXX] Okello [VVV]
 Magnetron [XXX] Okello
 Stone Mitts [XXX] Okello
 Massive Mandibles [XXX] super.darian.64
@@ -485,7 +485,7 @@ Saturn Coils
 Labor Day Hurricane
 America's Bible Belt
 Amazonian Whip [XXX] Okello
-All Seeing Eye
-Satan's Intestine
+All Seeing Eye [XXX] Gash 
+Satan's Intestine [XXX] Gash 
 Olathe Spanning Strip
 Humiliation Ritual [XXX] Toronacu
