@@ -192,8 +192,8 @@ Suicider's Tool [XXX] Okello [VVV]
 Quiet Thinning [XXX] Okello [VVV]
 Red Marginal [XXX] Okello
 T4
-Heavy Leiomano [XXX] Okello
-Grey To Red Sword [XXX] Okello
+Heavy Leiomano [XXX] Okello [VVV]
+Grey To Red Sword [XXX] Okello [VVV]
 Pyrophobia Tyrant [XXX] Okello
 Missouri River [XXX] Okello
 Arctic Horizon [XXX] Okello
