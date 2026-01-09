@@ -71,17 +71,17 @@ Goat Hooves [XXX] super.darian.64 [VVV]
 Bloodied Knucks [XXX] Okello [VVV]
 Dealt Hand [XXX] Okello
 T5
-Door Breakers [XXX] Okello
-Deconstructor Pair [XXX] Okello
-White Hole Gloves [XXX] Okello
-Neptunian Hands [XXX] Okello
-Death's Fingers [XXX] Okello
-Grasp On Physics [XXX] Okello
-Tectonica Gloves [XXX] Okello
-Budding New Nature [XXX] super.darian.64
-The Smiting Blow [XXX] super.darian.64 & Okello
-Peccatum [XXX] Okello
-Dadaist Bracelet [XXX] Okello
+Door Breakers [XXX] Okello [VVV]
+Deconstructor Pair [XXX] Okello [VVV]
+White Hole Gloves [XXX] Okello [VVV]
+Neptunian Hands [XXX] Okello [VVV]
+Death's Fingers [XXX] Okello [VVV]
+Grasp On Physics [XXX] Okello [VVV]
+Tectonica Gloves [XXX] Okello [VVV]
+Budding New Nature [XXX] super.darian.64 [VVV]
+The Smiting Blow [XXX] super.darian.64 & Okello [VVV]
+Peccatum [XXX] Okello [VVV]
+Dadaist Bracelet [XXX] Okello [VVV]
 Illegal Gloves [XXX] Okello
 
 boomerangs/throwables
@@ -201,21 +201,21 @@ Abused Buzzsaw [XXX] Tylobite & Okello
 Ancient Skimitar [XXX] Okello
 Weedwhacker [XXX] Okello
 Angelic Lance [XXX] Okello
-Infernal Deglover [XXX] Okello
-Unknowable Sword [XXX] Okello
+Infernal Deglover [XXX] Okello [VVV]
+Unknowable Sword [XXX] Okello [VVV]
 Beheading Epidemic [XXX] Tylobite
 T5
-Lethal Mancatcher [XXX] Okello
-Hand Guillotine [XXX] Okello
-1st Half Of The Flash [XXX] Okello
-Atlantis Piercer [XXX] Okello
-Stillness In Motion [XXX] Okello
-2nd Half Of The Flash [XXX] Okello
-North America Steel [XXX] Okello
-Oak Tree Peeler [XXX] Okello
-Gladius Dei Rutilans [XXX] Okello
-666 Daggers In One [XXX] Okello
-Joyeuse [XXX] Okello
+Lethal Mancatcher [XXX] Okello [VVV]
+Hand Guillotine [XXX] Okello [VVV] 
+1st Half Of The Flash [XXX] Okello [VVV]
+Atlantis Piercer [XXX] Okello [VVV]
+Stillness In Motion [XXX] Okello [VVV]
+2nd Half Of The Flash [XXX] Okello [VVV]
+North America Steel [XXX] Okello [VVV]
+Oak Tree Peeler [XXX] Okello [VVV]
+Gladius Dei Rutilans [XXX] Okello [VVV]
+666 Daggers In One [XXX] Okello [VVV]
+Joyeuse [XXX] Okello [VVV]
 Aztec Ritual Knife [XXX] Toronacu
 
 clubs/bats
@@ -272,17 +272,17 @@ Gigapenetrator [XXX] Okello [VVV]
 The Shaft [XXX] super.darian.64 [VVV]
 Mjolnir Replica [XXX] super.darian.64
 T5
-Trench Raiding Club [XXX] super.darian.64 & Okello
-Elephant Goad [XXX] Okello
-Proxy Sun Flail [XXX] Okello
-USS Liberty Anchor [XXX] Okello
-Iceberg Basher [XXX] Okello
-N.A.S.A. Sattelite [XXX] super.darian.64 & Okello
-Mantle Demolition [XXX] Okello
-Neon Treecrowns [XXX] SIE & Okello
-Staff Of Moses [XXX] Okello
-Woman's Corpse [XXX] Okello
-Videoo Nihil [XXX] Billy Mayonnaise & Okello
+Trench Raiding Club [XXX] super.darian.64 & Okello [VVV]
+Elephant Goad [XXX] Okello [VVV]
+Proxy Sun Flail [XXX] Okello [VVV]
+USS Liberty Anchor [XXX] Okello [VVV]
+Iceberg Basher [XXX] Okello [VVV]
+N.A.S.A. Sattelite [XXX] super.darian.64 & Okello [VVV]
+Mantle Demolition [XXX] Okello [VVV]
+Neon Treecrowns [XXX] SIE & Okello [VVV]
+Staff Of Moses [XXX] Okello [VVV]
+Woman's Corpse [XXX] Okello [VVV]
+Videoo Nihil [XXX] Billy Mayonnaise & Okello [VVV]
 Flaying Braindazzler [XXX] super.darian.64 & Okello
 
 guns
