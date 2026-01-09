@@ -339,17 +339,17 @@ Pope's Pistol [XXX] Okello & super.darian.64 [VVV]
 Sugary Firearm [XXX] super.darian.64 [VVV]
 Bank Clearing Piece [XXX] super.darian.64
 T5
-100 Deck Shotgun [XXX] super.darian.64 & Okello 
-Anti-Infantry Minigun [XXX] Okello
-Comet Launcher [XXX] Billy Mayonnaise
-Shipsinker Handgun [XXX] Okello
+100 Deck Shotgun [XXX] super.darian.64 & Okello [VVV]
+Anti-Infantry Minigun [XXX] Okello [VVV]
+Comet Launcher [XXX] Billy Mayonnaise [VVV]
+Shipsinker Handgun [XXX] Okello [VVV]
 E.N.T.R.O.P.Y. Gun [XXX] Okello [VVV]
-Anti-Air Pulse Rifle [XXX] Okello
-Civil War Bolt Action [XXX] super.darian.64 & Okello 
-Unit 731 Dart Pistol [XXX] Okello
-America's Finest Gun [XXX] Fruits & Okello 
-Jahannam Bullets [XXX] Okello
-Maximum Caliber [XXX] super.darian.64 & Okello 
+Anti-Air Pulse Rifle [XXX] Okello [VVV]
+Civil War Bolt Action [XXX] super.darian.64 & Okello [VVV]
+Unit 731 Dart Pistol [XXX] Okello [VVV]
+America's Finest Gun [XXX] Fruits & Okello [VVV]
+Jahannam Bullets [XXX] Okello [VVV]
+Maximum Caliber [XXX] super.darian.64 & Okello [VVV]
 Last US Army Issue [XXX] Fruits & Okello 
 
 shields/big objects/obstacles
