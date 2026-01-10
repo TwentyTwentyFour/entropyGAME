@@ -92,12 +92,12 @@ Terracotta Beads [XXX] Pug
 Holey Poncho [XXX] Pug
 T2
 Plastic Pieces
-Greaser Jacket
-Ashen Shirt
+Greaser Jacket [XXX] Okello
+Ashen Shirt [XXX] Okello
 Diving Suit
 Thermal Clothing [XXX] Fruits
 Static Wool Pajamas
-Desert Camo Getup
+Desert Camo Getup [XXX] Okello
 Linen Shawl
 Prayer Mantle [XXX] Pug
 Prisoner Jumpsuit [XXX] Pug
@@ -135,7 +135,7 @@ The Mariana Trench
 Robes Of Odin [XXX] Toronacu
 Richter's Scale Getup
 Calamity Interface
-The Golden Fleece
+The Golden Fleece [XXX] Pug & Okello
 Dirty Hospital Gown
 Tunic Of Nessus
 
@@ -210,7 +210,7 @@ Airhorn [XXX] super.darian.64
 Dreamstate [XXX] super.darian.64
 Biblically Valid Mind
 Picture Of Zion
-Blind Wrath
+Blind Wrath [XXX] RL.4iK 
 Donkey Ass
 Executive Order 11110 [XXX] Fruits
 The Choice Trinket
