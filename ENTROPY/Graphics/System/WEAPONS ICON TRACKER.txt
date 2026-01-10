@@ -477,15 +477,15 @@ Fibonacci Sequence [XXX] Okello [VVV]
 Man's Extinction [XXX] Toronacu
 
 T5
-Breeder Bot Limb [XXX] Okello 
-Pierce The Reality [XXX] Okello 
-Volcanic Mantle Strip [XXX] RL.4iK 
-Niagra Falls 
-Saturn Coils [XXX] Gash 
-Labor Day Hurricane [XXX] Okello 
-America's Bible Belt [XXX] RL.4iK & Okello
-Amazonian Whip [XXX] Okello
-All Seeing Eye [XXX] Gash 
-Satan's Intestine [XXX] Gash 
-Olathe Spanning Strip [XXX] Okello 
-Humiliation Ritual [XXX] Toronacu
+Breeder Bot Limb [XXX] Okello [VVV]
+Pierce The Reality [XXX] Okello [VVV]
+Volcanic Mantle Strip [XXX] RL.4iK [VVV]
+Niagra Falls [XXX] Okello [VVV]
+Saturn Coils [XXX] Gash [VVV]
+Labor Day Hurricane [XXX] Okello [VVV]
+America's Bible Belt [XXX] RL.4iK & Okello [VVV]
+Amazonian Whip [XXX] Okello [VVV]
+All Seeing Eye [XXX] Gash [VVV]
+Satan's Intestine [XXX] Gash [VVV]
+Olathe Spanning Strip [XXX] Okello [VVV]
+Humiliation Ritual [XXX] Toronacu [VVV]
