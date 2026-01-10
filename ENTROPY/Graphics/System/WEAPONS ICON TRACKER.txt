@@ -138,17 +138,17 @@ Aborted Biomaterial [XXX] super.darian.64 [VVV]
 Gun Beyond Broken [XXX] super.darian.64 [VVV]
 New Olathe Classic [XXX] Okello
 T5
-Miniscule ICBM Dud [XXX] Okello
-Needle In A Haystack [XXX] super.darian.64
-Deployable Hellfire [XXX] Toronacu
-Tsunami Supreme [XXX] Okello
-Boomerang Nebula [XXX] Okello
-50000 Volt Grenades [XXX] Okello
-Jerusalem Block [XXX] Okello
-Man's Superposition [XXX] Okello
-Jesus's Collarbones [XXX] super.darian.64
-Lying Judgement [XXX] super.darian.64
-Censor Bars [XXX] Okello
+Miniscule ICBM Dud [XXX] Okello [VVV]
+Needle In A Haystack [XXX] super.darian.64 [VVV]
+Deployable Hellfire [XXX] Toronacu [VVV]
+Tsunami Supreme [XXX] Okello [VVV]
+Boomerang Nebula [XXX] Okello [VVV]
+50000 Volt Grenades [XXX] Okello [VVV]
+Jerusalem Block [XXX] Okello [VVV]
+Man's Superposition [XXX] Okello [VVV]
+Jesus's Collarbones [XXX] super.darian.64 [VVV]
+Lying Judgement [XXX] super.darian.64 [VVV]
+Censor Bars [XXX] Okello [VVV]
 Ultimate Boomerang [XXX] Okello
 
 knives/swords/blades
@@ -479,7 +479,7 @@ Man's Extinction [XXX] Toronacu
 T5
 Breeder Bot Limb
 Pierce The Reality [XXX] Okello 
-Volcanic Mantle Strip
+Volcanic Mantle Strip [XXX] RL.4iK 
 Niagra Falls
 Saturn Coils [XXX] Gash 
 Labor Day Hurricane
