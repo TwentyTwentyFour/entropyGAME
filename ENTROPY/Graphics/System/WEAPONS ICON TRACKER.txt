@@ -406,17 +406,17 @@ Septic Tank [XXX] Okello [VVV]
 Kindness [XXX] Okello [VVV]
 Riot Suppress Shield [XXX] Gash & super.darian.64 
 T5
-Unmovable Object [XXX] Pug & Okello 
-Czech Hedgehog [XXX] Okello 
-Betelgeuse [XXX] Okello 
-Atlantic Ocean [XXX] Okello 
-Defunct Cryocamera
-Storming Nebula [XXX] Okello 
-Planet Earth [XXX] Okello 
-Old And New Nature [XXX] Okello
-God's Saving Grace [XXX] Okello
-De Sade's Doctrine [XXX] Okello
-Superstes [XXX] Okello
+Unmovable Object [XXX] Pug & Okello [VVV]
+Czech Hedgehog [XXX] Okello [VVV]
+Betelgeuse [XXX] Okello [VVV]
+Atlantic Ocean [XXX] Okello [VVV]
+Defunct Cryocamera [XXX] Okello [VVV]
+Storming Nebula [XXX] Okello [VVV]
+Planet Earth [XXX] Okello [VVV]
+Old And New Nature [XXX] Okello [VVV]
+God's Saving Grace [XXX] Okello [VVV]
+De Sade's Doctrine [XXX] Okello [VVV]
+Superstes [XXX] Okello [VVV]
 Authentic Chimalli [XXX] Toronacu
 
 whips
