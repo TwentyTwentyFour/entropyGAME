@@ -194,9 +194,9 @@ Red Marginal [XXX] Okello
 T4
 Heavy Leiomano [XXX] Okello [VVV]
 Grey To Red Sword [XXX] Okello [VVV]
-Pyrophobia Tyrant [XXX] Okello
-Missouri River [XXX] Okello
-Arctic Horizon [XXX] Okello
+Pyrophobia Tyrant [XXX] Okello [VVV]
+Missouri River [XXX] Okello [VVV]
+Arctic Horizon [XXX] Okello [VVV]
 Abused Buzzsaw [XXX] Tylobite & Okello
 Ancient Skimitar [XXX] Okello
 Weedwhacker [XXX] Okello
