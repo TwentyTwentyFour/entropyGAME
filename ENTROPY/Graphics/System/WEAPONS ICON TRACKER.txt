@@ -197,10 +197,10 @@ Grey To Red Sword [XXX] Okello [VVV]
 Pyrophobia Tyrant [XXX] Okello [VVV]
 Missouri River [XXX] Okello [VVV]
 Arctic Horizon [XXX] Okello [VVV]
-Abused Buzzsaw [XXX] Tylobite & Okello
-Ancient Skimitar [XXX] Okello
-Weedwhacker [XXX] Okello
-Angelic Lance [XXX] Okello
+Abused Buzzsaw [XXX] Tylobite & Okello [VVV]
+Ancient Skimitar [XXX] Okello [VVV]
+Weedwhacker [XXX] Okello [VVV]
+Angelic Lance [XXX] Okello [VVV]
 Infernal Deglover [XXX] Okello [VVV]
 Unknowable Sword [XXX] Okello [VVV]
 Beheading Epidemic [XXX] Tylobite
