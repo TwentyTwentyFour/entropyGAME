@@ -165,7 +165,7 @@ Cowboy Jeans [XXX] super.darian.64
 Pissed Pants [XXX] super.darian.64
 Underwear [XXX] Okello
 T3
-Biker Club Pants
+Biker Club Pants [XXX] RL.4iK 
 Tactical Treaders
 Chemical Tarp Pants
 Waterproof Trousers
