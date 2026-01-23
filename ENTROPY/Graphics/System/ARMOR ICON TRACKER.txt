@@ -39,7 +39,7 @@ Mining Helmet [XXX] Okello
 Flower Crown [XXX] Okello
 Blissful Braids [XXX] Toronacu
 Human Viscera [XXX] Okello
-Crab Plush Mask 
+Crab Plush Mask [XXX] Okello
 T3
 Heroic Kerchief [XXX] super.darian.64
 SWAT Helm [XXX] super.darian.64
@@ -65,9 +65,9 @@ The Halo [XXX] super.darian.64
 Lizard Skin [XXX] Pug
 Vast Blue [XXX] Grom
 T5
-Macedonian Helmet
+Macedonian Helmet [XXX] Billy Mayonnaise & Okello
 World's Pinkest Mask [XXX] Okello
-Splendor Solis
+Splendor Solis [XXX] Okello
 Crown Of Atlantis [XXX] Okello
 Mother's Warmth
 Spacesuit Helmet
@@ -75,7 +75,7 @@ Transformation Mask
 New Nature Visor [XXX] Okello
 Crown Of Thorns [XXX] Toronacu
 JFK's Frontal Lobe [XXX] Okello
-Man's Full Scalp
+Man's Full Scalp [XXX] Okello
 
 body armor/clothes
 T1
