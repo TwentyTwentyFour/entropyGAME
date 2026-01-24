@@ -101,26 +101,26 @@ Desert Camo Getup [XXX] Okello
 Linen Shawl [XXX] Okello
 Prayer Mantle [XXX] Pug
 Prisoner Jumpsuit [XXX] Pug
-Cadaver's Garb
+Cadaver's Garb [XXX] Okello
 T3
 Sportsgear [XXX] Okello
 Bulletproof Vest [XXX] Grom
-Fiberglass Bodysuit 
-Bathyscaphe Shawl
+Fiberglass Bodysuit [XXX] Okello
+Bathyscaphe Shawl [XXX] Okello
 Fink Fur Coat [XXX] RL.4iK 
-Olympic Jumpsuit
+Olympic Jumpsuit [XXX] Okello
 Nubian Beads [XXX] Pug
 Tie Dye Shirt [XXX] Okello
-Wedding Dress
-NY Wall Street Suit
-Performance Jacket
+Wedding Dress [XXX] Okello
+NY Wall Street Suit [XXX] Okello
+Performance Jacket [XXX] SIE 
 T4
-Armor Or Beowulf
+Armor Or Beowulf [XXX] Okello
 The Plot Armor [XXX] Billy Mayonnaise & Pug & Okello
 Solar Panel Jumpsuit [XXX] Pug & Okello
 Piscis Tunic
 Northern Lights Shawl
-Wire Cocoon
+Wire Cocoon [XXX] Okello
 Burial Getup
 Samsara Poncho [XXX] Okello
 Abrahamic Garb
