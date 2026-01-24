@@ -69,9 +69,9 @@ Macedonian Helmet [XXX] Billy Mayonnaise & Okello
 World's Pinkest Mask [XXX] Okello
 Splendor Solis [XXX] Okello
 Crown Of Atlantis [XXX] Okello
-Mother's Warmth
-Spacesuit Helmet
-Transformation Mask
+Mother's Warmth [XXX] Okello 
+Spacesuit Helmet [XXX] Okello
+Transformation Mask [XXX] Okello
 New Nature Visor [XXX] Okello
 Crown Of Thorns [XXX] Toronacu
 JFK's Frontal Lobe [XXX] Okello
@@ -103,14 +103,14 @@ Prayer Mantle [XXX] Pug
 Prisoner Jumpsuit [XXX] Pug
 Cadaver's Garb
 T3
-Sportsgear
+Sportsgear [XXX] Okello
 Bulletproof Vest [XXX] Grom
 Fiberglass Bodysuit 
 Bathyscaphe Shawl
 Fink Fur Coat [XXX] RL.4iK 
 Olympic Jumpsuit
 Nubian Beads [XXX] Pug
-Tie Dye Shirt
+Tie Dye Shirt [XXX] Okello
 Wedding Dress
 NY Wall Street Suit
 Performance Jacket
@@ -122,7 +122,7 @@ Piscis Tunic
 Northern Lights Shawl
 Wire Cocoon
 Burial Getup
-Samsara Poncho
+Samsara Poncho [XXX] Okello
 Abrahamic Garb
 Butcher's Apron
 Carnival Bodysuit
@@ -134,7 +134,7 @@ The Mariana Trench
 1000 Layer Poncho
 Robes Of Odin [XXX] Toronacu
 Richter's Scale Getup
-Calamity Interface
+Calamity Interface [XXX] Fruits
 The Golden Fleece [XXX] Pug & Okello
 Dirty Hospital Gown
 Tunic Of Nessus
@@ -203,17 +203,17 @@ Whizz-whazz Pants
 
 extra accessories
 Wizardly Bauble [XXX] RL.4iK 
-Voodoo Bauble
-Rabbit Talisman
-Vertigo Talisman
+Voodoo Bauble [XXX] RL.4iK & Okello
+Rabbit Talisman [XXX] Okello
+Vertigo Talisman [XXX] Okello
 Airhorn [XXX] super.darian.64
 Dreamstate [XXX] super.darian.64
 Biblically Valid Mind [XXX] Billy Mayonnaise
 Picture Of Zion [XXX] Okello & Billy Mayonnaise
 Blind Wrath [XXX] RL.4iK 
-Donkey Ass
+Donkey Ass [XXX] Gash 
 Executive Order 11110 [XXX] Fruits
-The Choice Trinket
+The Choice Trinket [XXX] Gash 
 Rad Sneakers [XXX] Okello
 Toilet Paper [XXX] super.darian.64
 Offensive Book [XXX] super.darian.64
