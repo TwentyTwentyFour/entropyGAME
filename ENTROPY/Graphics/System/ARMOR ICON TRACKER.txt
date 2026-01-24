@@ -166,16 +166,16 @@ Pissed Pants [XXX] super.darian.64
 Underwear [XXX] Okello
 T3
 Biker Club Pants [XXX] RL.4iK 
-Tactical Treaders
-Chemical Tarp Pants
-Waterproof Trousers
-Insulated Bib Pants
-Quicksilver Shins
+Tactical Treaders [XXX] super.darian.64
+Chemical Tarp Pants [XXX] super.darian.64
+Waterproof Trousers [XXX] super.darian.64
+Insulated Bib Pants [XXX] super.darian.64
+Quicksilver Shins [XXX] super.darian.64
 Mummy Bandages [XXX] RL.4iK 
-Tropic Ornaments
+Tropic Ornaments [XXX] super.darian.64
 Priest's Trousers [XXX] Pug
-Addict's Shorts
-Half-Authentic Kilt
+Addict's Shorts [XXX] Gash
+Half-Authentic Kilt [XXX] super.darian.64
 T4
 Leg Armor Shells
 Chainmail Skirt
@@ -203,7 +203,7 @@ Whizz-whazz Pants
 
 extra accessories
 Wizardly Bauble [XXX] RL.4iK 
-Voodoo Bauble [XXX] RL.4iK & Okello
+Voodoo Bauble [XXX] Gash
 Rabbit Talisman [XXX] Okello
 Vertigo Talisman [XXX] Okello
 Airhorn [XXX] super.darian.64
