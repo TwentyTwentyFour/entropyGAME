@@ -177,14 +177,14 @@ Priest's Trousers [XXX] Pug
 Addict's Shorts [XXX] Gash
 Half-Authentic Kilt [XXX] super.darian.64
 T4
-Leg Armor Shells
-Chainmail Skirt
-Magmatic Drapes
-Battleship Leggings
+Leg Armor Shells [XXX] Gash
+Chainmail Skirt [XXX] Gash
+Magmatic Drapes [XXX] Gash
+Battleship Leggings [XXX] Gash
 Luna Moods
 Om Striders
 Urban Nomad
-Horizon Hues
+Horizon Hues [XXX] Gash
 King Arthur's Shins
 Low Umbra
 Realmwalkers
