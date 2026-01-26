@@ -129,8 +129,8 @@ Carnival Bodysuit [XXX] super.darian.64
 T5
 Antimatter Armor [XXX] RL.4iK 
 Dark Matter Suit [XXX] Okello
-Eclipse Getup
-The Mariana Trench
+Eclipse Getup [XXX] super.darian.64 & Okello
+The Mariana Trench [XXX] Okello
 1000 Layer Poncho [XXX] Pug & Okello
 Robes Of Odin [XXX] Toronacu
 Richter's Scale Getup [XXX] Okello
