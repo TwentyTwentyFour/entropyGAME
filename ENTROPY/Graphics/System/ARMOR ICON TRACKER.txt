@@ -118,26 +118,26 @@ T4
 Armor Or Beowulf [XXX] Okello
 The Plot Armor [XXX] Billy Mayonnaise & Pug & Okello
 Solar Panel Jumpsuit [XXX] Pug & Okello
-Piscis Tunic
-Northern Lights Shawl
+Piscis Tunic [XXX] super.darian.64
+Northern Lights Shawl [XXX] super.darian.64
 Wire Cocoon [XXX] Okello
-Burial Getup
+Burial Getup [XXX] super.darian.64
 Samsara Poncho [XXX] Okello
-Abrahamic Garb
-Butcher's Apron
-Carnival Bodysuit
+Abrahamic Garb [XXX] Okello
+Butcher's Apron [XXX] Okello
+Carnival Bodysuit [XXX] super.darian.64
 T5
 Antimatter Armor [XXX] RL.4iK 
-Dark Matter Suit
+Dark Matter Suit [XXX] Okello
 Eclipse Getup
 The Mariana Trench
-1000 Layer Poncho
+1000 Layer Poncho [XXX] Pug & Okello
 Robes Of Odin [XXX] Toronacu
-Richter's Scale Getup
+Richter's Scale Getup [XXX] Okello
 Calamity Interface [XXX] Fruits
 The Golden Fleece [XXX] Pug & Okello
-Dirty Hospital Gown
-Tunic Of Nessus
+Dirty Hospital Gown [XXX] Okello
+Tunic Of Nessus [XXX] super.darian.64 & Okello
 
 leg armor/clothes
 T1
@@ -181,25 +181,25 @@ Leg Armor Shells [XXX] Gash
 Chainmail Skirt [XXX] Gash
 Magmatic Drapes [XXX] Gash
 Battleship Leggings [XXX] Gash
-Luna Moods
-Om Striders
-Urban Nomad
+Luna Moods [XXX] super.darian.64
+Om Striders [XXX] super.darian.64
+Urban Nomad [XXX] super.darian.64
 Horizon Hues [XXX] Gash
-King Arthur's Shins
-Low Umbra
-Realmwalkers
+King Arthur's Shins [XXX] super.darian.64
+Low Umbra [XXX] Okello
+Realmwalkers [XXX] super.darian.64
 T5
-Turbulence Shins
-Non Cultro Leggings
-Sunset Leg Guards
-Hollow Merman's Tail
-Absolute Zero Pants
-Jupiter Bottoms
-Masonic Treaders
-Gorgone Cullottes
-Yahweh's Gown
-Macabre Aphex
-Whizz-whazz Pants
+Turbulence Shins [XXX] Okello
+Non Cultro Leggings [XXX] Pug & Okello
+Sunset Leg Guards [XXX] Okello
+Hollow Merman's Tail [XXX] Okello
+Absolute Zero Pants [XXX] super.darian.64 & Okello
+Jupiter Bottoms [XXX] Okello
+Masonic Treaders [XXX] Okello
+Gorgone Cullottes [XXX] Okello
+Yahweh's Gown [XXX] super.darian.64 & Okello
+Macabre Aphex [XXX] super.darian.64 & Okello
+Whizz-whazz Pants [XXX] Okello
 
 extra accessories
 Wizardly Bauble [XXX] RL.4iK 
