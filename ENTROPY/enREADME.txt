@@ -19,7 +19,7 @@ SOLVED??? (modified lcm itself) 2.1. I tried to add a check that also prevents L
 4.1. This should help with issue 3 somewhat.
 
 KNOWN ISSUES (not lcm, nor lcm fix related)
-1. When a party member dies (note: DIES, no K-O, DEATH!) and has a status effect "wheel", which is activated when a party member has more than 4 status effects, the "wheel" is not disposed and persists on battle UI window as a ghost status effect "wheel".
+SOLVED??? (CRUTCH) 1. When a party member dies (note: DIES, no K-O, DEATH!) and has a status effect "wheel", which is activated when a party member has more than 4 status effects, the "wheel" is not disposed and persists on battle UI window as a ghost status effect "wheel".
 SOLVED??? 2. Text boxes appear scuffed when in-battle. (should have small sizes and only be set to large on VICTORY SCREENS instead they're large always.)
 SOLVED??? keep watch 3. Certain character appears invisible in-battle (used to crash without an installed extra script.) YOUR SAVEFILE IS LIKELY CORRUPTED!!! START A NEW ONE. this bug is related to carrying over save files from old versions i think
 SOLVEED??? inspect solve 4. using Spy erases party member hp/sp window and the window cannot be invoked back, this is due to it being an instant skill that uses a common event that erases battle UI elements.
