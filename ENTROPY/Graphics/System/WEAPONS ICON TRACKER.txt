@@ -8,7 +8,7 @@ Blades - killer skills
 Clubs - tank/killer skills
 Guns - killer skills
 Shields - tank/support skills
-Whips - debuffer/killer skills
+Whips - debuffer/killer/support skills
 
 
 legend: 
