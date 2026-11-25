@@ -1,0 +1,491 @@
+this txt is for tracking completed icon assets as well as entropy weapon names
+
+WEAPONSKILLS START AT ID:5000
+weaponskills directions:
+Gloves - tank skills
+Throwables - support/debuffer skills
+Blades - killer skills
+Clubs - tank/killer skills
+Guns - killer skills
+Shields - tank/support skills
+Whips - debuffer/killer/support skills
+
+
+legend: 
+[itemname] BLANK-incomplete 
+[itemname] [XXX] [author]-complete
+[itemname] (after xxx) BLANK - Weaponskill incomplete
+[itemname] [VVV] - Weaponskill complete
+
+gloves/handbands/handwear
+T1
+DIY Bracelet [XXX] Okello [VVV]
+Fingernails [XXX] Okello [VVV]
+Red Ring [XXX] Okello [VVV]
+Sweat [XXX] Okello [VVV]
+Artificial Rime [XXX] Okello [VVV]
+Battery Acid [XXX] Okello [VVV]
+Dust Crust [XXX] Okello [VVV]
+Garden Gloves [XXX] Okello [VVV]
+Begging Hands [XXX] Okello [VVV]
+Scratches [XXX] Okello [VVV]
+Corpse Oil [XXX] Okello [VVV]
+Magnesia Powder [XXX] Okello 
+T2
+Dueling Gloves [XXX] Okello [VVV]
+Hidden Blade [XXX] Okello [VVV]
+Toaster Parts [XXX] Okello [VVV]
+Wet Skin [XXX] Okello [VVV]
+Still Handwatch [XXX] super.darian.64 [VVV]
+Zap Wristbands [XXX] Okello [VVV]
+Used Work Gloves [XXX] Okello [VVV]
+Vine Bracelet [XXX] Okello [VVV]
+Pastor's Ring [XXX] Okello [VVV]
+Opened Wrists [XXX] Okello [VVV]
+Single Glove [XXX] Okello [VVV]
+Alcoholic Tremors [XXX] Okello
+T3
+Whole Wristbands [XXX] Okello [VVV]
+Spikey Knuckles [XXX] Okello [VVV]
+Cig Burns [XXX] Okello [VVV]
+Extra Glands [XXX] Okello [VVV]
+White Coating [XXX] Okello [VVV]
+Digital Watch [XXX] super.darian.64 [VVV]
+Dark Wristbands [XXX] Okello [VVV]
+Greenhouse Ring [XXX] Okello [VVV]
+Blessed Hands [XXX] Okello [VVV]
+666 Mark [XXX] Okello [VVV]
+Mom's Bracelet [XXX] Okello [VVV]
+Neuroticism [XXX] Okello
+T4
+Boxing Gloves [XXX] Okello [VVV]
+Hands That Kill [XXX] Okello [VVV]
+Starblaze [XXX] Okello [VVV]
+Rainmakers [XXX] Okello [VVV]
+Alpine Snow [XXX] Okello [VVV]
+Magnetron [XXX] Okello [VVV]
+Stone Mitts [XXX] Okello [VVV]
+Massive Mandibles [XXX] super.darian.64 [VVV]
+Nailholes [XXX] Okello [VVV]
+Goat Hooves [XXX] super.darian.64 [VVV]
+Bloodied Knucks [XXX] Okello [VVV]
+Dealt Hand [XXX] Okello
+T5
+Door Breakers [XXX] Okello [VVV]
+Deconstructor Pair [XXX] Okello [VVV]
+White Hole Gloves [XXX] Okello [VVV]
+Neptunian Hands [XXX] Okello [VVV]
+Death's Fingers [XXX] Okello [VVV]
+Grasp On Physics [XXX] Okello [VVV]
+Tectonica Gloves [XXX] Okello [VVV]
+Budding New Nature [XXX] super.darian.64 [VVV]
+The Smiting Blow [XXX] super.darian.64 & Okello [VVV]
+Peccatum [XXX] Okello [VVV]
+Dadaist Bracelet [XXX] Okello [VVV]
+Illegal Gloves [XXX] Okello
+
+boomerangs/throwables
+T1
+Plastic Boomerang [XXX] Okello [VVV]
+Plastic Disc [XXX] Billy Mayonnaise [VVV]
+Flares [XXX] Billy Mayonnaise [VVV]
+Water Balloons [XXX] Okello & SIE [VVV]
+Snowballs [XXX] Okello [VVV]
+Microchips [XXX] Okello [VVV]
+Flat Pebbles [XXX] Okello [VVV]
+Limes [XXX] Okello [VVV]
+Wooden Cross [XXX] Billy Mayonnaise [VVV]
+Infertile Eggs [XXX] Okello [VVV]
+Waning Branch [XXX] Billy Mayonnaise [VVV]
+Paper Airplane [XXX] Billy Mayonnaise
+T2
+The Seven [XXX] Okello [VVV]
+CD Disc [XXX] Okello [VVV]
+Cherry Bombs [XXX] Okello [VVV]
+Shower Handle [XXX] Okello [VVV]
+Icy Angular [XXX] Okello [VVV]
+Computer Mouse [XXX] Billy Mayonnaise [VVV]
+Porous Bricks [XXX] Okello [VVV]
+Expired Ampules [XXX] Okello [VVV]
+Golden Boomerang [XXX] Okello [VVV]
+Manifested Smile [XXX] Okello [VVV]
+Bananic Instrument [XXX] Okello [VVV]
+Rotten Fruit & Veg [XXX] Okello
+T3
+Throwable Nunchaku [XXX] Okello [VVV]
+Sawblade [XXX] Okello [VVV]
+Napalm Boomerang [XXX] Okello [VVV]
+Hello To A Surfer [XXX] Okello [VVV]
+Winter Winds [XXX] Okello [VVV]
+Y Antennae [XXX] Okello [VVV]
+Armored Masonry [XXX] Okello [VVV]
+Coconuts [XXX] Okello [VVV]
+Saint Graal [XXX] Okello [VVV]
+Rubber Dicks [XXX] Okello [VVV]
+Everbending Item [XXX] Okello [VVV]
+The Wrong Turn [XXX] Okello
+T4
+Trauma Instrument [XXX] super.darian.64 [VVV]
+Ten Thousand Cuts [XXX] super.darian.64 [VVV]
+A.S.H.E.S. [XXX] Okello [VVV]
+Heavy Weather [XXX] Okello [VVV]
+Ice Moon Europa [XXX] SIE & Okello [VVV]
+Solar Panel Plates [XXX] super.darian.64 [VVV]
+White House Slabs [XXX] super.darian.64 [VVV]
+Acute Viral Angle [XXX] Okello [VVV]
+The Bible [XXX] super.darian.64 [VVV]
+Aborted Biomaterial [XXX] super.darian.64 [VVV]
+Gun Beyond Broken [XXX] super.darian.64 [VVV]
+New Olathe Classic [XXX] Okello
+T5
+Miniscule ICBM Dud [XXX] Okello [VVV]
+Needle In A Haystack [XXX] super.darian.64 [VVV]
+Deployable Hellfire [XXX] Toronacu [VVV]
+Tsunami Supreme [XXX] Okello [VVV]
+Boomerang Nebula [XXX] Okello [VVV]
+50000 Volt Grenades [XXX] Okello [VVV]
+Jerusalem Block [XXX] Okello [VVV]
+Man's Superposition [XXX] Okello [VVV]
+Jesus's Collarbones [XXX] super.darian.64 [VVV]
+Lying Judgement [XXX] super.darian.64 [VVV]
+Censor Bars [XXX] Okello [VVV]
+Ultimate Boomerang [XXX] Okello
+
+knives/swords/blades
+T1
+Broken Bottle [XXX] Okello [VVV]
+Dental Tool [XXX] Okello [VVV]
+Molten Knife [XXX] Okello [VVV]
+Soupspoon [XXX] Okello [VVV]
+Ice Cream Scooper [XXX] Okello [VVV]
+Cable Jack [XXX] Okello [VVV]
+Dull Chisel [XXX] Okello [VVV]
+Pine Steak [XXX] Okello [VVV]
+Golden Needle [XXX] Okello [VVV]
+Rusty Curl [XXX] Okello [VVV]
+Black Spike [XXX] Toronacu & Okello [VVV]
+Pen [XXX] Okello
+T2
+Rebar [XXX] Okello [VVV]
+Swiss Knife [XXX] Okello [VVV]
+DIY Sharp Blowtorch [XXX] Okello [VVV]
+Fishing Hooks [XXX] Okello [VVV]
+New Nature Icicles [XXX] Okello [VVV]
+Sparksword [XXX] Okello [VVV]
+Masonic Hard Chisel [XXX] Okello [VVV]
+Jungle Machete [XXX] Okello [VVV]
+De-Foreskin-Er [XXX] Okello [VVV]
+AIDS Syringe [XXX] Okello [VVV]
+Non-Dagger [XXX] Okello [VVV]
+Hyperslicer [XXX] Okello
+T3
+Cubist Sword [XXX] Okello [VVV]
+Exotic Sai [XXX] Okello [VVV]
+Blazing Tungsten [XXX] Okello [VVV]
+Refined Sawfish Parts [XXX] Okello [VVV]
+Frigid Blade [XXX] Okello [VVV]
+Static Soundwaver [XXX] Okello [VVV]
+Stuck Excalibur [XXX] super.darian.64 [VVV]
+Green Sickle [XXX] Okello [VVV]
+Radiant Rapier [XXX] Okello [VVV]
+Suicider's Tool [XXX] Okello [VVV]
+Quiet Thinning [XXX] Okello [VVV]
+Red Marginal [XXX] Okello
+T4
+Heavy Leiomano [XXX] Okello [VVV]
+Grey To Red Sword [XXX] Okello [VVV]
+Pyrophobia Tyrant [XXX] Okello [VVV]
+Missouri River [XXX] Okello [VVV]
+Arctic Horizon [XXX] Okello [VVV]
+Abused Buzzsaw [XXX] Tylobite & Okello [VVV]
+Ancient Skimitar [XXX] Okello [VVV]
+Weedwhacker [XXX] Okello [VVV]
+Angelic Lance [XXX] Okello [VVV]
+Infernal Deglover [XXX] Okello [VVV]
+Unknowable Sword [XXX] Okello [VVV]
+Beheading Epidemic [XXX] Tylobite
+T5
+Lethal Mancatcher [XXX] Okello [VVV]
+Hand Guillotine [XXX] Okello [VVV] 
+1st Half Of The Flash [XXX] Okello [VVV]
+Atlantis Piercer [XXX] Okello [VVV]
+Stillness In Motion [XXX] Okello [VVV]
+2nd Half Of The Flash [XXX] Okello [VVV]
+North America Steel [XXX] Okello [VVV]
+Oak Tree Peeler [XXX] Okello [VVV]
+Gladius Dei Rutilans [XXX] Okello [VVV]
+666 Daggers In One [XXX] Okello [VVV]
+Joyeuse [XXX] Okello [VVV]
+Aztec Ritual Knife [XXX] Toronacu
+
+clubs/bats
+T1
+Decrepit Pipework [XXX] Billy Mayonnaise [VVV]
+Nailed Plank [XXX] Billy Mayonnaise [VVV]
+Cindering Wood [XXX] Billy Mayonnaise [VVV]
+Plastic Paddle [XXX] Billy Mayonnaise [VVV]
+Destroyed Icepick [XXX] Billy Mayonnaise [VVV]
+Standing Airfan [XXX] Billy Mayonnaise [VVV]
+Broom [XXX] Billy Mayonnaise [VVV]
+Flower Bundle [XXX] Okello [VVV]
+Choir's Notestand [XXX] Billy Mayonnaise [VVV]
+Stripping Pole [XXX] Billy Mayonnaise [VVV]
+Quarterstaff [XXX] Billy Mayonnaise [VVV]
+Old Casey [XXX] Billy Mayonnaise
+T2
+Car Axle [XXX] super.darian.64 [VVV]
+Barbed Club [XXX] super.darian.64 [VVV]
+Space Heater [XXX] super.darian.64 [VVV]
+Steaming Pipework [XXX] super.darian.64 [VVV]
+Sample Of Siberia [XXX] super.darian.64 [VVV]
+Telephone Pole Parts [XXX] Okello [VVV]
+Shovel [XXX] Okello [VVV]
+Green Plough [XXX] Okello [VVV]
+Preacher's Briefcase [XXX] Okello [VVV]
+Bladeless Scythe [XXX] super.darian.64 & Okello [VVV]
+Colorless Bat [XXX] super.darian.64 [VVV]
+Policeman Nightstick [XXX] super.darian.64 & Okello
+T3
+25 Pound Hammer [XXX] super.darian.64 [VVV]
+American Axe [XXX] super.darian.64 [VVV]
+DIY Torture Tool [XXX] super.darian.64 & Okello [VVV]
+Full Fishing Sack [XXX] super.darian.64 [VVV]
+Argon Tank [XXX] super.darian.64 [VVV]
+Kinetic Zinc Rod [XXX] super.darian.64 [VVV]
+Piece Of Kansas City [XXX] super.darian.64 [VVV]
+Mother Gaia Baton [XXX] super.darian.64 [VVV]
+Church Cross [XXX] super.darian.64  [VVV]
+Man's Corpse [XXX] super.darian.64 [VVV]
+Lightbulb Smasher [XXX] Okello [VVV]
+Half-ton Bellclapper [XXX] Okello
+T4
+Lobotomizer [XXX] super.darian.64 [VVV]
+Damaged Harpoon [XXX] super.darian.64 [VVV]
+Cattle Branding Iron [XXX] super.darian.64 [VVV]
+Urchin Mace [XXX] super.darian.64 [VVV]
+The North Pole [XXX] super.darian.64 [VVV]
+Erratic Cattle Prod [XXX] Okello [VVV]
+Mini Excavator Claw [XXX] Okello [VVV]
+Totem Pole [XXX] Okello [VVV]
+Gilded Bellclapper [XXX] Okello [VVV]
+Gigapenetrator [XXX] Okello [VVV]
+The Shaft [XXX] super.darian.64 [VVV]
+Mjolnir Replica [XXX] super.darian.64
+T5
+Trench Raiding Club [XXX] super.darian.64 & Okello [VVV]
+Elephant Goad [XXX] Okello [VVV]
+Proxy Sun Flail [XXX] Okello [VVV]
+USS Liberty Anchor [XXX] Okello [VVV]
+Iceberg Basher [XXX] Okello [VVV]
+N.A.S.A. Sattelite [XXX] super.darian.64 & Okello [VVV]
+Mantle Demolition [XXX] Okello [VVV]
+Neon Treecrowns [XXX] SIE & Okello [VVV]
+Staff Of Moses [XXX] Okello [VVV]
+Woman's Corpse [XXX] Okello [VVV]
+Videoo Nihil [XXX] Billy Mayonnaise & Okello [VVV]
+Flaying Braindazzler [XXX] super.darian.64 & Okello
+
+guns
+T1
+Airgun [XXX] super.darian.64 [VVV]
+Nailgun [XXX] super.darian.64 [VVV]
+Lighter + Deodorant [XXX] Okello [VVV]
+Water Hose [XXX] super.darian.64 [VVV]
+Artificial Snow Can [XXX] super.darian.64 [VVV]
+No Battery Taser [XXX] super.darian.64 [VVV]
+Defunct Pistol [XXX] super.darian.64 [VVV]
+Germ Spray [XXX] super.darian.64 [VVV]
+Lost Police Issue [XXX] super.darian.64 [VVV]
+Muzzle Flasher [XXX] super.darian.64 [VVV]
+Zip Rip [XXX] Okello [VVV]
+Bullet Chewer [XXX] Okello
+T2
+Osa Handgun [XXX] super.darian.64 [VVV]
+WWI Moseen's Rifle [XXX] super.darian.64 [VVV]
+Caving Flare Gun [XXX] super.darian.64 [VVV]
+Pressure Cleaner [XXX] Okello [VVV]
+Ice Resurfacer Parts [XXX] Okello [VVV]
+DIY Railgun [XXX] Okello [VVV]
+Karlo SMG [XXX] Okello [VVV]
+Cyanide Drop Rifle [XXX] Okello [VVV]
+High Caliber Blitz [XXX] Okello [VVV]
+Uniattacker's Gun [XXX] Okello [VVV]
+Imploded Rifle [XXX] super.darian.64 & Okello [VVV]
+Snub Revolver [XXX] Okello
+T3
+DIY Blunderbuss [XXX] super.darian.64 [VVV]
+2005 Issue SMG [XXX] super.darian.64 [VVV]
+Napalm Thrower [XXX] super.darian.64 [VVV]
+Dolphin Rifle [XXX] super.darian.64 [VVV]
+Cold War Pistol [XXX] super.darian.64 [VVV]
+Laser Prototype [XXX] super.darian.64 [VVV]
+African Produkt Rifle [XXX] Okello [VVV]
+Moth Machinegun [XXX] super.darian.64 & Okello [VVV]
+Saltshooter [XXX] Okello [VVV]
+Whispering Piece [XXX] Okello [VVV]
+No Trigger Pistol [XXX] Okello [VVV]
+7 Mile Sniper Rifle [XXX] Fruits
+T4
+Teddy Roosevelt Gun [XXX] super.darian.64 [VVV]
+Nouriin 550 [XXX] Okello [VVV]
+Dave Crocket Piece [XXX] super.darian.64 [VVV]
+Riot Disperser [XXX] super.darian.64 [VVV]
+PP-15 Bison [XXX] Okello [VVV]
+Arc Generator [XXX] Okello & super.darian.64 [VVV]
+Hand Mortar [XXX] super.darian.64 [VVV]
+Experiment 5 [XXX] super.darian.64 [VVV]
+Pope's Pistol [XXX] Okello & super.darian.64 [VVV]
+666 Karat Opal Gun [XXX] super.darian.64 [VVV]
+Sugary Firearm [XXX] super.darian.64 [VVV]
+Bank Clearing Piece [XXX] super.darian.64
+T5
+100 Deck Shotgun [XXX] super.darian.64 & Okello [VVV]
+Anti-Infantry Minigun [XXX] Okello [VVV]
+Comet Launcher [XXX] Billy Mayonnaise [VVV]
+Shipsinker Handgun [XXX] Okello [VVV]
+E.N.T.R.O.P.Y. Gun [XXX] Okello [VVV]
+Anti-Air Pulse Rifle [XXX] Okello [VVV]
+Civil War Bolt Action [XXX] super.darian.64 & Okello [VVV]
+Unit 731 Dart Pistol [XXX] Okello [VVV]
+America's Finest Gun [XXX] Fruits & Okello [VVV]
+Jahannam Bullets [XXX] Okello [VVV]
+Maximum Caliber [XXX] super.darian.64 & Okello [VVV]
+Last US Army Issue [XXX] Fruits & Okello 
+
+shields/big objects/obstacles
+T1
+Joined Planks [XXX] Pug [VVV]
+Metal Sheet [XXX] Pug [VVV]
+Oven Door [XXX] Pug [VVV]
+10 Gallon Water Jug [XXX] Pug [VVV]
+Fridge Door [XXX] Pug [VVV]
+Transformer Box [XXX] Pug [VVV]
+Olathian Landmass [XXX] Pug [VVV]
+Uprooted Bush [XXX] Pug [VVV]
+Church Mozaic [XXX] Okello [VVV]
+Dirty Mattress [XXX] Pug [VVV]
+Doomed Protector [XXX] Pug [VVV]
+Scapegoat Meatwall [XXX] Okello
+T2
+DIY Shield [XXX] Okello [VVV]
+Rigid Plating [XXX] Okello [VVV]
+Hot Garbage [XXX] Okello [VVV]
+Washer Door [XXX] Okello [VVV]
+Frost Fortification [XXX] Okello [VVV]
+TV Set [XXX] Okello [VVV]
+Monstertruck Wheel [XXX] Okello [VVV]
+Basined Flowerbed [XXX] Okello [VVV]
+Prayer House Bench [XXX] Okello [VVV]
+Adult Literature [XXX] Okello [VVV]
+Black Square [XXX] Okello [VVV]
+Parry Instrument [XXX] Okello
+T3
+Foldable Lead Chair [XXX] Okello [VVV]
+Barbed Shield [XXX] Okello [VVV]
+Firefighter Barricade [XXX] Pug & Okello [VVV]
+Water Boiler [XXX] Okello [VVV]
+Artificial Ice Wall [XXX] Okello [VVV]
+Synthesizer Keys [XXX] Okello [VVV]
+Torn Off Brickwall [XXX] Okello [VVV]
+Calamity Riot Sign [XXX] Gash [VVV]
+Crusading Shield [XXX] Gash [VVV]
+Full Body Sex Doll [XXX] Okello [VVV]
+Bodyweight Mirror [XXX] Okello [VVV]
+Gigantic Flower [XXX] super.darian.64 & Okello
+T4
+F.B.I. Car Door [XXX] super.darian.64 [VVV]
+Spike Canopy Barrier [XXX] super.darian.64 [VVV]
+Lava Coating [XXX] super.darian.64 [VVV]
+95% Fluid Shield [XXX] Okello [VVV]
+Svalinn [XXX] super.darian.64  [VVV]
+Telecommunications [XXX] super.darian.64 [VVV]
+Justice House Shield [XXX] super.darian.64 [VVV]
+Whole Animal Head [XXX] super.darian.64 [VVV]
+Divine Iconography [XXX] Okello [VVV]
+Septic Tank [XXX] Okello [VVV]
+Kindness [XXX] Okello [VVV]
+Riot Suppress Shield [XXX] Gash & super.darian.64 
+T5
+Unmovable Object [XXX] Pug & Okello [VVV]
+Czech Hedgehog [XXX] Okello [VVV]
+Betelgeuse [XXX] Okello [VVV]
+Atlantic Ocean [XXX] Okello [VVV]
+Defunct Cryocamera [XXX] Okello [VVV]
+Storming Nebula [XXX] Okello [VVV]
+Planet Earth [XXX] Okello [VVV]
+Old And New Nature [XXX] Okello [VVV]
+God's Saving Grace [XXX] Okello [VVV]
+De Sade's Doctrine [XXX] Okello [VVV]
+Superstes [XXX] Okello [VVV]
+Authentic Chimalli [XXX] Toronacu
+
+whips
+T1
+Rusty Chain [XXX] Okello [VVV]
+Torn Dog Leash [XXX] Okello [VVV]
+Orange Whip [XXX] Okello [VVV]
+Fishing Net Thread [XXX] Billy Mayonnaise [VVV]
+Sky Blue Whip [XXX] Okello [VVV]
+Loose Wires [XXX] Toronacu [VVV]
+Construction Thread [XXX] Billy Mayonnaise [VVV]
+Reeds [XXX] Billy Mayonnaise [VVV]
+Churchman's Necktie [XXX] Billy Mayonnaise [VVV]
+Crime Tape [XXX] Billy Mayonnaise [VVV]
+Thick Black Thread [XXX] Toronacu [VVV]
+Port De Bras String [XXX] Okello
+
+T2
+Fatherly Belt [XXX] Okello [VVV]
+Lasher [XXX] Okello [VVV]
+Fury Flail [XXX] Okello [VVV]
+The Tongue [XXX] Toronacu [VVV]
+X-mas Lights [XXX] Toronacu [VVV]
+US Type Wire Plug [XXX] Toronacu [VVV]
+Riding Crop [XXX] Toronacu [VVV]
+Long Hair Braid [XXX] Toronacu [VVV]
+Holy Spool [XXX] Toronacu [VVV]
+Noose [XXX] Toronacu [VVV]
+Jelly-flex-stick [XXX] Toronacu [VVV]
+Control Joystick [XXX] Toronacu
+
+T3
+Motorbike Chain [XXX] Okello [VVV]
+Barbed Wire [XXX] Okello [VVV]
+Melting Metal [XXX] super.darian.64 [VVV]
+Sail Strap [XXX] Okello [VVV]
+Ice Cream Whip [XXX] Okello [VVV]
+Electric Guitar String [XXX] Toronacu & Okello [VVV]
+Hulking Urban Flail [XXX] Okello [VVV]
+Snake Cadaver [XXX] Okello [VVV]
+Flagellant Whip [XXX] Okello [VVV]
+B.D.S.M. Equipment [XXX] SIE & Okello [VVV]
+Silicon Gooey Hand [XXX] Okello [VVV]
+Juice Extractor [XXX] Okello
+
+T4
+Diegetic Mauler [XXX] Okello [VVV]
+Cat O Nine Tails [XXX] Okello [VVV]
+Gehenna Chains [XXX] Okello [VVV]
+The Coastline [XXX] super.darian.64 & Okello [VVV]
+New Ice Age [XXX] SIE & Okello [VVV]
+Subdued Lightning [XXX] Okello [VVV]
+Bridge Cable [XXX] Okello [VVV]
+New Nature Thorns [XXX] Okello [VVV]
+Whipping Of Jesus [XXX] super.darian.64 & Okello [VVV]
+Aegis Wrecker [XXX] Okello [VVV]
+Fibonacci Sequence [XXX] Okello [VVV]
+Man's Extinction [XXX] Toronacu
+
+T5
+Breeder Bot Limb [XXX] Okello [VVV]
+Pierce The Reality [XXX] Okello [VVV]
+Volcanic Mantle Strip [XXX] RL.4iK [VVV]
+Niagra Falls [XXX] Okello [VVV]
+Saturn Coils [XXX] Gash [VVV]
+Labor Day Hurricane [XXX] Okello [VVV]
+America's Bible Belt [XXX] RL.4iK & Okello [VVV]
+Amazonian Whip [XXX] Okello [VVV]
+All Seeing Eye [XXX] Gash [VVV]
+Satan's Intestine [XXX] Gash [VVV]
+Olathe Spanning Strip [XXX] Okello [VVV]
+Humiliation Ritual [XXX] Toronacu [VVV]
